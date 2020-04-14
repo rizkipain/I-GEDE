@@ -1,0 +1,6 @@
+| 2020-02-03 17:14:13 | manual | 7 | 3.3 | M | 4 | 8.28 S | 123.34 E | 10 km | Flores Region, Indonesia
+| 2020-02-03 15:46:59 | manual | 13 | 4.9 | M | 11 | 6.23 S | 130.67 E | 145 km | Banda Sea
+| 2020-02-03 12:12:38 | manual | 22 | 5.3 | M | 12 | 0.41 S | 125.31 E | 6 km | Southern Molucca Sea
+| 2020-02-03 06:37:36 | manual | 9 | 3.9 | M | 6 | 4.02 S | 122.60 E | 10 km | Sulawesi, Indonesia
+| 2020-02-03 02:05:57 | manual | 7 | 2.9 | M | 4 | 1.07 U | 121.71 E | 2 km | Minahassa Peninsula, Sulawesi
+| 2020-02-03 01:24:30 | manual | 5 | 3.7 | M | 3 | 3.71 S | 140.21 E | 0 km | Irian Jaya, Indonesia

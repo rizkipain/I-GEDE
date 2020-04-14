@@ -1,0 +1,7 @@
+| 2019-12-20 17:13:05 | manual | 7 | 3.0 | M | 6 | 2.78 S | 122.24 E | 10 km | Sulawesi, Indonesia
+| 2019-12-20 16:04:27 | manual | 8 | 3.9 | M | 7 | 0.17 S | 123.01 E | 80 km | Minahassa Peninsula, Sulawesi
+| 2019-12-20 14:34:04 | manual | 23 | 4.7 | M | 12 | 2.95 S | 122.37 E | 10 km | Sulawesi, Indonesia
+| 2019-12-20 09:50:11 | manual | 9 | 4.8 | M | 5 | 0.62 S | 123.94 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2019-12-20 01:36:01 | manual | 4 | 2.8 | M | 4 | 0.67 S | 121.59 E | 6 km | Minahassa Peninsula, Sulawesi
+| 2019-12-20 00:07:28 | manual | 7 | 3.8 | M | 7 | 3 S | 127.01 E | 85 km | Ceram Sea
+| 2019-12-20 00:07:28 | manual | 7 | 3.8 | M | 7 | 3 S | 127.01 E | 85 km | Ceram Sea

@@ -1,0 +1,203 @@
+body{
+  background-image: url('../img/aws.jpg');
+  background-size: cover;
+}
+
+.judul{
+	margin-top: 2%;
+  margin-bottom: 2%;
+	text-align: center;
+  font-size: 2em;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+/* ==================================================== tabel repatulasi ========================================= */
+.wadah{
+  width: 85%;
+  margin: auto;
+  margin-top: 2%;
+  padding: 1%;
+	background-color: white;
+  background-size: cover;
+  border-radius: 2%;
+}
+
+#rekap_identitas{
+  margin: auto;
+  width: 90%;
+}
+
+#rekap_identitas td[id*=awal]{
+  width: 20%;
+  /* border: 2px solid red; */
+}
+
+#rekap_identitas td[id*=tengah]{
+  width: 5%;
+  /* border: 2px solid red; */
+  text-align: center;
+}
+
+#rekap_identitas td[id*=akhir]{
+  /* border: 2px solid red; */
+  text-align: left;
+}
+
+/* ==================================================== tabel repatulasi ========================================= */
+
+
+/* ==================================================== tabel permintaandatin ==================================== */
+#rekap_permintaandatin{
+  margin: auto;
+  margin-top: 3%;
+  width: 95%;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+#rekap_permintaandatin td, #rekap_permintaandatin th{
+  border: 2px solid black;
+  padding: 0.2%;
+}
+
+#rekap_permintaandatin td[id*=kolom7]{
+  text-align: left;
+}
+
+/* =============================================================================================================== */
+
+/* ==================================================== tombol-tombol ============================================ */
+.tombol{
+    margin-top: 2%;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+#bukatandatangan{
+  -webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+  clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+  width: 15%;
+  height: 10%;
+  margin-right: 5%;
+}
+
+#bukafotoktp{
+  -webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+  clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+  width: 10%;
+  height: 10%;
+}
+
+#cancel{
+  -webkit-clip-path: polygon(25% 0%, 100% 1%, 100% 100%, 25% 100%, 0% 50%);
+	clip-path: polygon(25% 0%, 100% 1%, 100% 100%, 25% 100%, 0% 50%);
+  width: 15%;
+  height: 10%;
+  background: #2098d1;
+  font-weight: bold;
+}
+
+#submit{
+  -webkit-clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+  clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+  width: 15%;
+  height: 10%;
+  background: #2098d1;
+  font-weight: bold;
+}
+
+/* =============================================================================================================== */
+
+/* ==================================================== gambar preview ============================================ */
+.gambar-preview{
+    margin-top: 1%;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+#preview_tandatangan{
+
+}
+
+#previewcanvas_fotoktp{
+  display:none;
+}
+
+/* =============================================================================================================== */
+
+/* ==================================================== modal tandatangan ======================================== */
+.modaltandatangan{
+	display:none;
+	position: fixed;
+	z-index: 1;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	overflow: hidden;
+	background-color: rgba(0,0,0,0.4);
+}
+
+.modaltandatangan-content{
+	margin: 10em auto 2em auto;
+	background-color: #a4cdd8;
+	width:50%;
+	height: auto;
+	padding: 5%;
+	border-radius:0.25em;
+  text-align: center;
+}
+
+#judul_tandatangan{
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 5%;
+}
+
+#simpan_tandatangan,#hapus_tandatangan, #tutup_tandatangan{
+  border-radius: 20%;
+  width: 10%;
+  height: 7.5%;
+  font-weight: bold;
+}
+/* ================================================== akhir modal modaltandatangan ================================= */
+
+/* ==================================================== modal fotoktp ======================================== */
+.modalfotoktp{
+	display:none;
+	position: fixed;
+	z-index: 1;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	overflow: hidden;
+	background-color: rgba(0,0,0,0.4);
+}
+
+.modalfotoktp-content{
+	margin: auto;
+  margin-top: 1.5%;
+	background-color: #a4cdd8;
+	width:50%;
+	height: auto;
+	padding: 1%;
+	border-radius:0.25em;
+  text-align: center;
+}
+
+#judul_fotoktp{
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 5%;
+}
+
+#simpan_fotoktp, #tutup_fotoktp{
+  margin-top: 2%;
+  border-radius: 20%;
+  width: 20%;
+  height: 7.5%;
+  font-weight: bold;
+}
+/* ================================================== akhir modal fotoktp ================================= */

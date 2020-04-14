@@ -1,0 +1,6 @@
+| 2020-03-21 22:46:00 | manual | 19 | 4.3 | M | 8 | 10.82 S | 115.15 E | 87 km | South of Bali, Indonesia
+| 2020-03-21 21:19:40 | manual | 27 | 5.0 | M | 13 | 5.38 S | 141.39 E | 43 km | New Guinea, Papua New Guinea
+| 2020-03-21 21:19:37 | manual | 12 | 5.0 | M | 5 | 5.31 S | 141.33 E | 7 km | New Guinea, Papua New Guinea
+| 2020-03-21 07:23:49 | manual | 6 | 3.7 | M | 3 | 3.84 S | 141.28 E | 12 km | New Guinea, Papua New Guinea
+| 2020-03-21 03:34:46 | manual | 5 | 2.9 | M | 3 | 2.5 S | 121.49 E | 26 km | Sulawesi, Indonesia
+| 2020-03-21 03:52:44 | manual | 17 | 4.9 | M | 8 | 1.74 U | 127.18 E | 21 km | Halmahera, Indonesia

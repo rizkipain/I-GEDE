@@ -1,0 +1,6 @@
+| 2020-03-03 10:28:44 | manual | 8 | 3.2 | M | 6 | 1.74 S | 122.44 E | 22 km | Sulawesi, Indonesia
+| 2020-03-03 08:37:15 | manual | 9 | 3.1 | M | 7 | 3.37 S | 120.73 E | 4 km | Sulawesi, Indonesia
+| 2020-03-03 08:37:15 | manual | 7 | 3.0 | M | 7 | 3.37 S | 120.73 E | 4 km | Sulawesi, Indonesia
+| 2020-03-03 07:38:56 | manual | 9 | 4.1 | M | 6 | 4.55 S | 129.49 E | 210 km | Banda Sea
+| 2020-03-03 06:52:33 | manual | 8 | 4.2 | M | 6 | 0.97 U | 126.55 E | 24 km | Northern Molucca Sea
+| 2020-03-03 06:55:50 | manual | 10 | 4.6 | M | 7 | 1.12 U | 126.52 E | 10 km | Northern Molucca Sea

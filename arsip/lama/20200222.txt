@@ -1,0 +1,7 @@
+| 2020-02-22 16:53:11 | manual | 5 | 3.5 | M | 5 | 2.35 S | 121.02 E | 10 km | Sulawesi, Indonesia
+| 2020-02-22 12:05:04 | manual | 11 | 4.1 | M | 6 | 2.46 S | 121.46 E | 10 km | Sulawesi, Indonesia
+| 2020-02-22 11:36:22 | manual | 6 | 3.1 | M | 5 | 2.77 S | 119.49 E | 17 km | Sulawesi, Indonesia
+| 2020-02-22 11:10:56 | manual | 8 | 3.5 | M | 5 | 9.5 S | 116.63 E | 7 km | Sumbawa Region, Indonesia
+| 2020-02-22 09:39:39 | manual | 7 | 3.5 | M | 5 | 7.68 S | 117.55 E | 12 km | Bali Sea
+| 2020-02-22 06:18:07 | manual | 7 | 4.7 | M | 4 | 0.51 S | 124.70 E | 10 km | Southern Molucca Sea
+| 2020-02-22 06:18:07 | manual | 7 | 4.7 | M | 4 | 0.51 S | 124.70 E | 10 km | Southern Molucca Sea

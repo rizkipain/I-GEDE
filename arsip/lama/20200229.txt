@@ -1,0 +1,3 @@
+| 2020-02-29 18:56:05 | manual | 10 | 4.0 | M | 6 | 0.23 S | 123.20 E | 115 km | Minahassa Peninsula, Sulawesi
+| 2020-02-29 11:27:51 | manual | 12 | 4.4 | M | 8 | 1.52 S | 124.28 E | 10 km | Southern Molucca Sea
+| 2020-02-29 00:35:41 | manual | 9 | 3.9 | M | 7 | 0.82 S | 120.37 E | 109 km | Minahassa Peninsula, Sulawesi

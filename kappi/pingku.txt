@@ -1,0 +1,44 @@
+PING 192.168.1.40 (192.168.1.40): 56 data bytes
+64 bytes from 192.168.1.40: icmp_seq=0 ttl=64 time=0.548 ms
+64 bytes from 192.168.1.40: icmp_seq=1 ttl=64 time=0.501 ms
+64 bytes from 192.168.1.40: icmp_seq=2 ttl=64 time=0.518 ms
+64 bytes from 192.168.1.40: icmp_seq=3 ttl=64 time=0.661 ms
+64 bytes from 192.168.1.40: icmp_seq=4 ttl=64 time=0.800 ms
+
+--- 192.168.1.40 ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 0.501/0.606/0.800/0.112 ms
+PING 192.168.1.99 (192.168.1.99): 56 data bytes
+
+--- 192.168.1.99 ping statistics ---
+5 packets transmitted, 0 packets received, 100.0% packet loss
+PING 192.168.1.42 (192.168.1.42): 56 data bytes
+64 bytes from 192.168.1.42: icmp_seq=0 ttl=64 time=167.213 ms
+64 bytes from 192.168.1.42: icmp_seq=1 ttl=64 time=101.605 ms
+64 bytes from 192.168.1.42: icmp_seq=2 ttl=64 time=76.398 ms
+64 bytes from 192.168.1.42: icmp_seq=3 ttl=64 time=78.409 ms
+64 bytes from 192.168.1.42: icmp_seq=4 ttl=64 time=82.806 ms
+
+--- 192.168.1.42 ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 76.398/101.286/167.213/34.149 ms
+PING 192.168.1.11 (192.168.1.11): 56 data bytes
+64 bytes from 192.168.1.11: icmp_seq=0 ttl=64 time=78.224 ms
+64 bytes from 192.168.1.11: icmp_seq=1 ttl=64 time=64.156 ms
+64 bytes from 192.168.1.11: icmp_seq=2 ttl=64 time=68.308 ms
+64 bytes from 192.168.1.11: icmp_seq=3 ttl=64 time=70.448 ms
+64 bytes from 192.168.1.11: icmp_seq=4 ttl=64 time=75.840 ms
+
+--- 192.168.1.11 ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 64.156/71.395/78.224/5.084 ms
+PING 192.168.1.12 (192.168.1.12): 56 data bytes
+64 bytes from 192.168.1.12: icmp_seq=0 ttl=64 time=78.208 ms
+64 bytes from 192.168.1.12: icmp_seq=1 ttl=64 time=80.433 ms
+64 bytes from 192.168.1.12: icmp_seq=2 ttl=64 time=79.557 ms
+64 bytes from 192.168.1.12: icmp_seq=3 ttl=64 time=79.453 ms
+64 bytes from 192.168.1.12: icmp_seq=4 ttl=64 time=70.866 ms
+
+--- 192.168.1.12 ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 70.866/77.703/80.433/3.491 ms

@@ -1,0 +1,18 @@
+| 2019-12-05 23:53:27 | manual | 9 | 3.7 | M | 6 | 9.17 S | 124.08 E | 6 km | Timor Region
+| 2019-12-05 20:33:42 | manual | 4 | 2.7 | M | 4 | 0.62 U | 121.67 E | 53 km | Minahassa Peninsula, Sulawesi
+| 2019-12-05 20:00:33 | manual | 11 | 3.8 | M | 7 | 4.18 S | 128.41 E | 51 km | Banda Sea
+| 2019-12-05 18:01:45 | manual | 10 | 3.0 | M | 6 | 0.5 S | 123.70 E | 4 km | Minahassa Peninsula, Sulawesi
+| 2019-12-05 16:47:56 | manual | 15 | 3.7 | M | 10 | 1.19 U | 120.72 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2019-12-05 16:29:44 | manual | 12 | 4.1 | M | 10 | 4.77 S | 127.50 E | 290 km | Banda Sea
+| 2019-12-05 16:17:20 | manual | 12 | 3.8 | M | 7 | 6.54 S | 131.13 E | 24 km | Tanimbar Islands Reg., Indonesia
+| 2019-12-05 15:52:05 | manual | 10 | 3.8 | M | 7 | 1.15 U | 120.03 E | 4 km | Minahassa Peninsula, Sulawesi
+| 2019-12-05 15:28:47 | manual | 10 | 3.0 | M | 5 | 2.58 S | 129.53 E | 3 km | Seram, Indonesia
+| 2019-12-05 15:09:53 | manual | 6 | 4.1 | M | 6 | 2.26 S | 140.47 E | 4 km | Near North Coast of Irian Jaya
+| 2019-12-05 14:20:16 | manual | 13 | 3.2 | M | 10 | 1.4 S | 121.94 E | 82 km | Sulawesi, Indonesia
+| 2019-12-05 14:10:56 | manual | 14 | 3.8 | M | 10 | 10.5 S | 123.90 E | 155 km | Timor Region
+| 2019-12-05 13:34:07 | manual | 13 | 3.8 | M | 11 | 1.16 U | 120.74 E | 3 km | Minahassa Peninsula, Sulawesi
+| 2019-12-05 13:16:34 | manual | 12 | 4.0 | M | 8 | 8.29 S | 121.66 E | 155 km | Flores Region, Indonesia
+| 2019-12-05 12:33:26 | manual | 9 | 2.9 | M | 6 | 2.81 S | 119.52 E | 6 km | Sulawesi, Indonesia
+| 2019-12-05 12:33:26 | manual | 8 | 2.9 | M | 7 | 2.81 S | 119.52 E | 6 km | Sulawesi, Indonesia
+| 2019-12-05 12:19:19 | manual | 20 | 4.5 | M | 13 | 1.12 U | 127.51 E | 137 km | Halmahera, Indonesia
+| 2019-12-05 12:19:19 | manual | 20 | 4.5 | M | 13 | 1.12 U | 127.51 E | 137 km | Halmahera, Indonesia

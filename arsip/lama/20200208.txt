@@ -1,0 +1,26 @@
+| 2020-02-08 23:10:47 | manual | 8 | 3.2 | M | 6 | 2.8 S | 129.90 E | 10 km | Seram, Indonesia
+| 2020-02-08 21:57:54 | manual | 9 | 3.5 | M | 7 | 2.79 S | 129.81 E | 12 km | Seram, Indonesia
+| 2020-02-08 21:46:51 | manual | 7 | 3.3 | M | 7 | 8.86 S | 112.80 E | 10 km | Java, Indonesia
+| 2020-02-08 21:45:15 | manual | 10 | 4.1 | M | 8 | 2.95 S | 129.99 E | 56 km | Seram, Indonesia
+| 2020-02-08 21:17:11 | manual | 9 | 3.3 | M | 7 | 2.77 S | 129.62 E | 87 km | Seram, Indonesia
+| 2020-02-08 20:46:35 | manual | 10 | 3.7 | M | 7 | 7.67 S | 111.34 E | 186 km | Java, Indonesia
+| 2020-02-08 20:40:20 | manual | 7 | 3.1 | M | 7 | 2.9 S | 130.05 E | 28 km | Seram, Indonesia
+| 2020-02-08 19:39:27 | manual | 8 | 3.9 | M | 6 | 2.83 S | 129.84 E | 11 km | Seram, Indonesia
+| 2020-02-08 19:23:47 | manual | 10 | 4.5 | M | 8 | 2.79 S | 129.94 E | 14 km | Seram, Indonesia
+| 2020-02-08 17:47:33 | manual | 8 | 3.8 | M | 6 | 2.82 S | 129.87 E | 15 km | Seram, Indonesia
+| 2020-02-08 17:23:29 | manual | 9 | 3.2 | M | 6 | 2.7 S | 129.95 E | 4 km | Seram, Indonesia
+| 2020-02-08 17:10:46 | manual | 9 | 3.0 | M | 6 | 2.51 S | 121.39 E | 15 km | Sulawesi, Indonesia
+| 2020-02-08 16:06:28 | manual | 9 | 3.2 | M | 7 | 1.42 S | 119.58 E | 3 km | Sulawesi, Indonesia
+| 2020-02-08 16:02:03 | manual | 11 | 4.3 | M | 6 | 2.85 S | 129.84 E | 16 km | Seram, Indonesia
+| 2020-02-08 15:16:39 | manual | 12 | 4.1 | M | 7 | 2.94 S | 129.98 E | 21 km | Seram, Indonesia
+| 2020-02-08 14:47:05 | manual | 7 | 3.7 | M | 6 | 0.79 U | 120.96 E | 175 km | Minahassa Peninsula, Sulawesi
+| 2020-02-08 14:19:36 | manual | 11 | 3.4 | M | 8 | 2.1 S | 129.92 E | 10 km | Seram, Indonesia
+| 2020-02-08 13:55:50 | manual | 5 | 3.4 | M | 5 | 2.84 S | 129.92 E | 26 km | Seram, Indonesia
+| 2020-02-08 13:31:47 | manual | 13 | 4.4 | M | 5 | 2.77 S | 129.88 E | 4 km | Seram, Indonesia
+| 2020-02-08 13:23:10 | manual | 19 | 4.5 | M | 14 | 0.43 S | 125.23 E | 6 km | Southern Molucca Sea
+| 2020-02-08 12:48:45 | manual | 50 | 5.3 | M | 37 | 6.19 S | 147.40 E | 83 km | Eastern New Guinea Reg., P.N.G.
+| 2020-02-08 12:48:45 | manual | 29 | 5.3 | M | 22 | 6.2 S | 147.37 E | 82 km | Eastern New Guinea Reg., P.N.G.
+| 2020-02-08 12:25:19 | manual | 9 | 3.4 | M | 6 | 2.15 S | 130.07 E | 2 km | Seram, Indonesia
+| 2020-02-08 12:18:13 | manual | 10 | 3.3 | M | 8 | 2.73 S | 129.88 E | 10 km | Seram, Indonesia
+| 2020-02-08 11:46:31 | manual | 9 | 3.7 | M | 7 | 2.77 S | 129.92 E | 24 km | Seram, Indonesia
+| 2020-02-08 02:08:17 | manual | 6 | 3.2 | M | 5 | 0.15 S | 123.41 E | 38 km | Minahassa Peninsula, Sulawesi

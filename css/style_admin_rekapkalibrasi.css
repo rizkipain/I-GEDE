@@ -1,0 +1,47 @@
+#content{
+	margin:auto;
+	margin-top: 5%;
+	text-align: center;
+}
+
+/*=============================================== tabel utama =================================================*/
+
+#tabelutama, #tabelutama td {
+	font-size:1em;
+	padding: 0.8em;
+}
+
+
+.kepalatabel {
+	background: rgb(206,220,231); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(206,220,231,1) 0%, rgba(89,106,114,1) 100%); /* FF3.6+ */
+	background: -webkit-linear-gradient(top,  rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedce7', endColorstr='#596a72',GradientType=0 ); /* IE6-9 */
+}
+
+.kepalatabel th {
+	padding: 0.5em;
+	color:#333;
+	font-size:1em;
+}
+
+.satu {
+	background-color:#c3d3dd;
+	text-align:center;
+}
+
+.dua {
+	background-color:#c9ddc3;
+	text-align:center;
+	padding-top:0.5em;
+}
+
+.satu:hover, .dua:hover {
+	background-color:#BADFFE;
+	cursor:pointer;
+}
+
+/*========================================== akhir tabel utama ================================================*/

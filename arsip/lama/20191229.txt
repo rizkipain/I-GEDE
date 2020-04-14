@@ -1,0 +1,10 @@
+| 2019-12-29 17:17:09 | manual | 6 | 2.2 | M | 4 | 3.05 S | 119.40 E | 4 km | Sulawesi, Indonesia
+| 2019-12-29 11:16:56 | manual | 6 | 2.3 | M | 4 | 2.82 S | 119.51 E | 9 km | Sulawesi, Indonesia
+| 2019-12-29 10:21:03 | manual | 8 | 3.3 | M | 6 | 1.2 S | 121.48 E | 10 km | Sulawesi, Indonesia
+| 2019-12-29 10:21:03 | manual | 8 | 3.4 | M | 6 | 1.2 S | 121.49 E | 7 km | Sulawesi, Indonesia
+| 2019-12-29 04:55:03 | manual | 17 | 4.8 | M | 12 | 0.06 S | 123.11 E | 104 km | Minahassa Peninsula, Sulawesi
+| 2019-12-29 03:51:55 | manual | 9 | 3.8 | M | 7 | 11.31 S | 123.31 E | 549 km | South of Timor, Indonesia
+| 2019-12-29 03:09:44 | manual | 8 | 3.9 | M | 6 | 11.05 S | 124.09 E | 14 km | South of Timor, Indonesia
+| 2019-12-29 01:42:59 | manual | 9 | 4.3 | M | 7 | 3.48 S | 128.38 E | 4 km | Seram, Indonesia
+| 2019-12-29 00:08:59 | manual | 7 | 3.4 | M | 7 | 0.84 S | 123.31 E | 8 km | Minahassa Peninsula, Sulawesi
+| 2019-12-29 00:08:59 | manual | 7 | 3.4 | M | 7 | 0.84 S | 123.31 E | 8 km | Minahassa Peninsula, Sulawesi

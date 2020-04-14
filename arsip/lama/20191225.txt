@@ -1,0 +1,16 @@
+| 2019-12-25 20:19:44 | manual | 9 | 2.6 | M | 7 | 2.87 S | 119.49 E | 3 km | Sulawesi, Indonesia
+| 2019-12-25 18:57:24 | manual | 11 | 2.9 | M | 7 | 2.39 S | 121.74 E | 15 km | Sulawesi, Indonesia
+| 2019-12-25 16:56:27 | manual | 56 | 5.2 | M | 41 | 3.75 U | 126.77 E | 52 km | Talaud Islands, Indonesia
+| 2019-12-25 16:30:02 | manual | 19 | 4.3 | M | 13 | 4.2 S | 128.36 E | 90 km | Banda Sea
+| 2019-12-25 15:44:57 | manual | 11 | 3.8 | M | 9 | 0.77 U | 125.68 E | 105 km | Northern Molucca Sea
+| 2019-12-25 14:57:07 | manual | 20 | 4.4 | M | 13 | 9.47 S | 119.26 E | 15 km | Sumba Region, Indonesia
+| 2019-12-25 14:57:07 | manual | 17 | 4.5 | M | 12 | 9.46 S | 119.20 E | 10 km | Sumba Region, Indonesia
+| 2019-12-25 12:26:06 | manual | 45 | 4.9 | M | 30 | 7.55 S | 144.06 E | 88 km | Near S. Coast of New Guinea, PNG.
+| 2019-12-25 12:20:24 | manual | 6 | 3.1 | M | 4 | 0.1 S | 123.17 E | 114 km | Minahassa Peninsula, Sulawesi
+| 2019-12-25 10:32:16 | manual | 18 | 3.4 | M | 13 | 2.49 S | 121.04 E | 10 km | Sulawesi, Indonesia
+| 2019-12-25 10:32:17 | manual | 10 | 3.5 | M | 6 | 2.62 S | 121.12 E | 9 km | Sulawesi, Indonesia
+| 2019-12-25 09:06:07 | manual | 7 | 2.7 | M | 4 | 2.85 S | 119.40 E | 17 km | Sulawesi, Indonesia
+| 2019-12-25 04:31:50 | manual | 9 | 3.2 | M | 6 | 1.53 S | 120.10 E | 10 km | Sulawesi, Indonesia
+| 2019-12-25 01:25:27 | manual | 12 | 3.8 | M | 8 | 1.49 S | 120.02 E | 10 km | Sulawesi, Indonesia
+| 2019-12-25 00:56:44 | manual | 24 | 4.9 | M | 13 | 1.5 S | 120.03 E | 7 km | Sulawesi, Indonesia
+| 2019-12-25 00:56:44 | manual | 24 | 4.9 | M | 13 | 1.5 S | 120.03 E | 7 km | Sulawesi, Indonesia

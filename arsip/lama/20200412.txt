@@ -1,0 +1,6 @@
+| 2020-04-12 21:31:50 | manual | 6 | 1.9 | M | 5 | 3.05 S | 119.28 E | 10 km | Sulawesi, Indonesia
+| 2020-04-12 13:17:52 | manual | 7 | 2.3 | M | 7 | 1.78 S | 120.24 E | 10 km | Sulawesi, Indonesia
+| 2020-04-12 13:17:52 | manual | 7 | 2.3 | M | 7 | 1.81 S | 120.20 E | 0 km | Sulawesi, Indonesia
+| 2020-04-12 11:54:00 | manual | 5 | 2.7 | M | 3 | 0.1 S | 123.13 E | 110 km | Minahassa Peninsula, Sulawesi
+| 2020-04-12 03:27:55 | manual | 17 | 4.8 | M | 12 | 6.7 S | 130.65 E | 117 km | Banda Sea
+| 2020-04-12 03:27:55 | manual | 17 | 4.8 | M | 12 | 6.7 S | 130.65 E | 117 km | Banda Sea

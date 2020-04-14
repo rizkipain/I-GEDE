@@ -1,0 +1,8 @@
+| 2019-12-27 21:57:52 | manual | 8 | 3.0 | M | 4 | 2.83 S | 119.51 E | 4 km | Sulawesi, Indonesia
+| 2019-12-27 21:57:51 | manual | 7 | 3.0 | M | 4 | 2.82 S | 119.50 E | 7 km | Sulawesi, Indonesia
+| 2019-12-27 18:41:52 | manual | 8 | 2.9 | M | 5 | 0.94 S | 119.92 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2019-12-27 17:25:02 | manual | 7 | 2.9 | M | 5 | 0.06 S | 123.05 E | 154 km | Minahassa Peninsula, Sulawesi
+| 2019-12-27 11:03:12 | manual | 6 | 2.8 | M | 4 | 2.81 S | 119.51 E | 10 km | Sulawesi, Indonesia
+| 2019-12-27 10:27:08 | manual | 6 | 5.3 | M | 5 | 6.35 U | 128.30 E | 105 km | East of Philippine Islands
+| 2019-12-27 09:45:40 | manual | 7 | 3.2 | M | 7 | 2.94 S | 119.42 E | 10 km | Sulawesi, Indonesia
+| 2019-12-27 09:45:40 | manual | 7 | 3.2 | M | 7 | 2.94 S | 119.42 E | 10 km | Sulawesi, Indonesia

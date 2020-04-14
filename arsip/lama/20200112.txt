@@ -1,0 +1,6 @@
+| 2020-01-12 19:41:21 | manual | 6 | 3.1 | M | 4 | 0.23 S | 123.28 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-01-12 10:53:50 | manual | 41 | 5.3 | M | 30 | 8.87 U | 126.23 E | 16 km | Mindanao, Philippines
+| 2020-01-12 10:04:24 | manual | 8 | 3.3 | M | 7 | 2.19 S | 122.14 E | 10 km | Sulawesi, Indonesia
+| 2020-01-12 09:59:31 | manual | 9 | 4.0 | M | 7 | 9.05 S | 115.84 E | 90 km | South of Bali, Indonesia
+| 2020-01-12 09:43:29 | manual | 11 | 3.5 | M | 8 | 1.61 S | 122.52 E | 12 km | Sulawesi, Indonesia
+| 2020-01-12 09:43:29 | manual | 11 | 3.5 | M | 8 | 1.61 S | 122.52 E | 12 km | Sulawesi, Indonesia

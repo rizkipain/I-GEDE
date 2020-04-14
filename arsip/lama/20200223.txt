@@ -1,0 +1,9 @@
+| 2020-02-23 23:51:04 | manual | 7 | 2.9 | M | 6 | 0.34 U | 122.53 E | 144 km | Minahassa Peninsula, Sulawesi
+| 2020-02-23 22:47:30 | manual | 16 | 5.1 | M | 13 | 2.88 S | 130.09 E | 8 km | Seram, Indonesia
+| 2020-02-23 22:37:36 | manual | 12 | 3.6 | M | 9 | 1.92 S | 122.63 E | 11 km | Sulawesi, Indonesia
+| 2020-02-23 20:22:57 | manual | 14 | 3.5 | M | 11 | 0.51 S | 119.74 E | 5 km | Minahassa Peninsula, Sulawesi
+| 2020-02-23 16:30:38 | manual | 11 | 3.2 | M | 7 | 2.17 S | 121.20 E | 12 km | Sulawesi, Indonesia
+| 2020-02-23 14:53:35 | manual | 8 | 2.8 | M | 4 | 2.79 S | 119.49 E | 23 km | Sulawesi, Indonesia
+| 2020-02-23 13:31:08 | manual | 21 | 4.3 | M | 12 | 2.92 U | 124.78 E | 449 km | Celebes Sea
+| 2020-02-23 12:39:21 | manual | 26 | 4.5 | M | 13 | 7.53 S | 120.04 E | 381 km | Flores Sea
+| 2020-02-23 12:39:21 | manual | 26 | 4.5 | M | 13 | 7.53 S | 120.04 E | 381 km | Flores Sea

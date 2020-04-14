@@ -1,0 +1,170 @@
+*{
+	margin:auto;
+	text-align: center;
+}
+
+/*=============================================== tabel utama =================================================*/
+
+#tabelutama, #tabelutama td {
+	font-size:1em;
+	padding: 0.8em;
+}
+
+
+.kepalatabel {
+	background: rgb(206,220,231); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(206,220,231,1) 0%, rgba(89,106,114,1) 100%); /* FF3.6+ */
+	background: -webkit-linear-gradient(top,  rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(206,220,231,1) 0%,rgba(89,106,114,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedce7', endColorstr='#596a72',GradientType=0 ); /* IE6-9 */
+}
+
+.kepalatabel th {
+	padding: 0.5em;
+	color:#333;
+	font-size:1em;
+}
+
+.satu {
+	background-color:#c3d3dd;
+	text-align:center;
+}
+
+.dua {
+	background-color:#c9ddc3;
+	text-align:center;
+	padding-top:0.5em;
+}
+
+.satu:hover, .dua:hover {
+	background-color:#BADFFE;
+	cursor:pointer;
+}
+
+tr:first-child th:first-child { border-top-left-radius: 10px; }
+tr:first-child th:last-child { border-top-right-radius: 10px; }
+/*========================================== akhir tabel utama ================================================*/
+
+
+/*=========tambahan==============*/
+.tombol{
+    	border-radius: 2em;
+}
+
+#tombol_hapus{
+	background-color: red;
+}
+
+#tombol_lihat_kecamatan{
+	background-color: green;
+}
+
+/*modal buka peta */
+#halaman_dasar_peta{
+	display:none;
+	position: fixed;
+	z-index: 1;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	overflow: hidden;
+	background-color: rgba(0,0,0,0.1);
+}
+
+.modal_isi_peta{
+	margin: 2em auto 2em auto;
+	background-color: #a4cdd8;
+ 	width: 500px;
+    	height: 500px;
+    	margin: auto;
+    	left: 0;
+    	right: 0;
+    	top: 0;
+    	bottom: 0;
+    	position: absolute;
+    	border: solid 5px black;
+	border-radius:0.25em;
+}
+/*modal buka peta */
+
+/*modal buka gambar */
+
+.modal_isi_gambar{
+	margin: 2em auto 2em auto;
+	background-color: #a4cdd8;
+ 	width: 500px;
+    	height: 500px;
+    	left: 0;
+    	right: 0;
+    	top: 0;
+    	bottom: 0;
+    	position: absolute;
+    	border: solid 5px black;
+	border-radius:0.25em;
+	display:none;
+}
+.kumpul_logo{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    right: 10px;
+    bottom: 10px;
+}
+
+.kumpul_logo img{
+    width: 40%;
+    height: auto;
+}
+
+.kumpul_logo label{
+    margin-top: 5%;
+    font-weight: bold;
+    
+}
+
+.kumpul_peta_kecil{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.kumpul_peta_kecil img{
+    width: 30%;
+    height: auto;
+    border: 1px solid black;
+    box-shadow: 5px 5px 2px grey;
+}
+/*modal buka gambar */
+
+#map {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+}
+
+#peta {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+}
+
+.animate{
+	-webkit-animation: animatezoom 0.6s;
+	animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom{
+	from {-webkit-transform: scale(0)}
+	to {-webkit-transform: scale(1)}
+}
+
+@keyframes animatezoom{
+	from{ transform: scale(0)}
+	to {transform: scale(1)}
+}

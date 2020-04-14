@@ -1,0 +1,10 @@
+| 2020-03-04 16:40:58 | manual | 13 | 3.3 | M | 11 | 2.57 S | 121.14 E | 10 km | Sulawesi, Indonesia
+| 2020-03-04 16:35:07 | manual | 15 | 4.1 | M | 12 | 8.44 S | 116.85 E | 10 km | Sumbawa Region, Indonesia
+| 2020-03-04 16:13:41 | manual | 14 | 3.3 | M | 10 | 1.56 S | 120.12 E | 10 km | Sulawesi, Indonesia
+| 2020-03-04 15:51:52 | manual | 18 | 4.5 | M | 13 | 0.16 S | 123.02 E | 80 km | Minahassa Peninsula, Sulawesi
+| 2020-03-04 14:04:47 | manual | 9 | 4.0 | M | 7 | 8.95 S | 124.20 E | 3 km | Timor Region
+| 2020-03-04 13:36:48 | manual | 42 | 4.7 | M | 26 | 3.72 S | 99.71 E | 10 km | Southwest of Sumatra, Indonesia
+| 2020-03-04 12:07:55 | manual | 10 | 3.5 | M | 7 | 2.26 S | 122.40 E | 15 km | Sulawesi, Indonesia
+| 2020-03-04 05:38:35 | manual | 6 | 2.9 | M | 5 | 2.75 S | 119.45 E | 6 km | Sulawesi, Indonesia
+| 2020-03-04 02:57:59 | manual | 7 | 3.4 | M | 5 | 2.27 S | 138.96 E | 38 km | Irian Jaya, Indonesia
+| 2020-03-04 01:00:26 | manual | 12 | 4.2 | M | 10 | 2.24 S | 122.40 E | 17 km | Sulawesi, Indonesia

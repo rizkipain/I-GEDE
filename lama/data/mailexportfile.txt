@@ -1,0 +1,34 @@
+Event:
+    Public ID              bmkg2020gzcj
+    Description
+      region name: Minahassa Peninsula, Sulawesi
+Origin:
+    Date                   2020-04-09
+    Time                   02:48:34.8  +/-  0.6 s
+    Latitude                -0.08 deg  +/-    3 km
+    Longitude              123.59 deg  +/-    5 km
+    Depth                      10 km
+    Agency                 BMKG
+    Mode                   manual
+    Status                 confirmed
+    Residual RMS              0.70 s
+    Azimuthal gap             170 deg
+
+2 Network magnitudes:
+    MLv       2.76            3            
+    M         2.76            3 preferred  
+
+5 Phase arrivals:
+    sta  net   dist azi  phase   time         res     wt  sta
+    GTOI  IA    1.1 319  P       02:48:54.3  -1.3 M  1.0  GTOI 
+    GTOI  IA    1.1 319  S       02:49:11.7   0.8 M  1.0  GTOI 
+    LUWI  IA    1.3 221  P       02:48:58.0   0.2 M  1.0  LUWI 
+    LUWI  IA    1.3 221  S       02:49:14.9  -0.1 M  1.0  LUWI 
+    SANI  IA    3.1 129  P       02:49:24.0   0.3 M  1.0  SANI 
+
+3 Station magnitudes:
+    sta  net   dist azi  type   value   res        amp per
+    GTOI  IA    1.1 319  MLv     2.18 -0.58   0.114643      
+    LUWI  IA    1.3 221  MLv     3.16  0.41    0.91483      
+    SANI  IA    3.1 129  MLv     2.93  0.18   0.0514782      
+

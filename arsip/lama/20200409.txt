@@ -1,0 +1,9 @@
+| 2020-04-09 12:09:01 | manual | 8 | 2.5 | M | 7 | 2.9 S | 119.41 E | 10 km | Sulawesi, Indonesia
+| 2020-04-09 10:08:29 | manual | 22 | 4.1 | M | 17 | 1.65 S | 120.17 E | 10 km | Sulawesi, Indonesia
+| 2020-04-09 07:38:00 | manual | 15 | 4.7 | M | 13 | 2.87 S | 128.61 E | 6 km | Ceram Sea
+| 2020-04-09 02:48:34 | manual | 5 | 2.8 | M | 3 | 0.08 S | 123.59 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-04-09 02:36:16 | manual | 6 | 3.1 | M | 4 | 4.09 S | 130.20 E | 26 km | Banda Sea
+| 2020-04-09 02:37:27 | manual | 6 | 3.3 | M | 4 | 8.15 S | 118.35 E | 28 km | Sumbawa Region, Indonesia
+| 2020-04-09 01:43:33 | manual | 21 | 4.9 | M | 10 | 1.28 S | 134.14 E | 16 km | Irian Jaya Region, Indonesia
+| 2020-04-09 00:26:11 | manual | 19 | 3.5 | M | 10 | 1.72 S | 120.12 E | 1 km | Sulawesi, Indonesia
+| 2020-04-09 00:26:11 | manual | 19 | 3.5 | M | 10 | 1.72 S | 120.12 E | 1 km | Sulawesi, Indonesia

@@ -1,0 +1,9 @@
+| 2019-12-09 23:23:20 | manual | 6 | 2.8 | M | 5 | 2.82 S | 119.41 E | 4 km | Sulawesi, Indonesia
+| 2019-12-09 21:12:42 | manual | 8 | 3.4 | M | 5 | 1.25 S | 120.73 E | 10 km | Sulawesi, Indonesia
+| 2019-12-09 19:50:18 | manual | 7 | 2.8 | M | 4 | 0.13 S | 122.94 E | 102 km | Minahassa Peninsula, Sulawesi
+| 2019-12-09 11:24:41 | manual | 6 | 3.5 | M | 6 | 9.84 S | 123.61 E | 10 km | Timor Region
+| 2019-12-09 11:12:46 | manual | 42 | 4.6 | M | 24 | 4.97 U | 123.23 E | 561 km | Celebes Sea
+| 2019-12-09 07:07:59 | manual | 10 | 4.2 | M | 7 | 8.95 S | 124.10 E | 8 km | Timor Region
+| 2019-12-09 06:46:54 | manual | 6 | 3.3 | M | 6 | 3.84 S | 129.12 E | 140 km | Seram, Indonesia
+| 2019-12-09 06:18:51 | manual | 18 | 4.1 | M | 13 | 9.23 S | 116.77 E | 69 km | Sumbawa Region, Indonesia
+| 2019-12-09 00:39:02 | manual | 8 | 0.0 | M | | 0.29 U | 122.04 E | 184 km | Minahassa Peninsula, Sulawesi

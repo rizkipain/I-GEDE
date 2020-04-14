@@ -1,0 +1,6 @@
+| 2020-03-02 22:31:09 | manual | 6 | 3.0 | M | 6 | 0.04 U | 122.54 E | 147 km | Minahassa Peninsula, Sulawesi
+| 2020-03-02 11:46:01 | manual | 14 | 4.8 | M | 7 | 5 S | 126.44 E | 435 km | Banda Sea
+| 2020-03-02 08:34:26 | manual | 7 | 3.4 | M | 4 | 2.42 S | 122.49 E | 10 km | Sulawesi, Indonesia
+| 2020-03-02 05:23:11 | manual | 12 | 4.3 | M | 8 | 9.15 S | 124.03 E | 93 km | Timor Region
+| 2020-03-02 00:31:29 | manual | 44 | 5.4 | M | 29 | 51.02 U | 179.74 W | 164 km | Andreanof Islands, Aleutian Islands
+| 2020-03-02 00:31:29 | manual | 44 | 5.4 | M | 29 | 51.02 U | 179.74 W | 164 km | Andreanof Islands, Aleutian Islands

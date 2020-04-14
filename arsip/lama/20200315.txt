@@ -1,0 +1,6 @@
+| 2020-03-15 12:00:02 | manual | 17 | 4.2 | M | 12 | 0.57 S | 127.40 E | 70 km | Halmahera, Indonesia
+| 2020-03-15 12:00:02 | manual | 13 | 4.1 | M | 10 | 0.57 S | 127.40 E | 71 km | Halmahera, Indonesia
+| 2020-03-15 10:45:46 | manual | 17 | 4.5 | M | 10 | 1.03 U | 127.14 E | 148 km | Halmahera, Indonesia
+| 2020-03-15 06:32:29 | manual | 7 | 3.0 | M | 6 | 3.33 S | 119.33 E | 7 km | Sulawesi, Indonesia
+| 2020-03-15 01:34:19 | manual | 12 | 3.7 | M | 10 | 1.23 S | 120.27 E | 10 km | Sulawesi, Indonesia
+| 2020-03-15 00:29:37 | manual | 13 | 3.9 | M | 9 | 1.21 S | 120.87 E | 10 km | Sulawesi, Indonesia

@@ -1,0 +1,7 @@
+| 2020-02-28 19:25:19 | manual | 7 | 2.8 | M | 6 | 3.59 S | 118.79 E | 3 km | Sulawesi, Indonesia
+| 2020-02-28 18:46:36 | manual | 17 | 4.7 | M | 13 | 0.8 S | 120.35 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-02-28 17:47:21 | manual | 4 | 4.8 | M | 3 | 12.11 S | 115.11 E | 10 km | Northwest of Australia
+| 2020-02-28 17:08:33 | manual | 6 | 3.4 | M | 3 | 9.42 S | 115.13 E | 10 km | South of Bali, Indonesia
+| 2020-02-28 16:28:31 | manual | 10 | 3.7 | M | 8 | 0.22 S | 123.48 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-02-28 14:09:56 | manual | 9 | 3.8 | M | 6 | 0.8 S | 133.18 E | 123 km | Irian Jaya Region, Indonesia
+| 2020-02-28 14:02:42 | manual | 44 | 5.1 | M | 30 | 4.84 S | 101.75 E | 125 km | Southern Sumatra, Indonesia

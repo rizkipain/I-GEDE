@@ -1,0 +1,7 @@
+| 2020-01-07 22:24:45 | manual | 7 | 3.9 | M | 5 | 9.27 S | 123.79 E | 10 km | Timor Region
+| 2020-01-07 20:20:16 | manual | 7 | 4.6 | M | 7 | 2.05 U | 124.25 E | 289 km | Celebes Sea
+| 2020-01-07 08:27:10 | manual | 9 | 4.7 | M | 6 | 1.83 U | 127.26 E | 132 km | Halmahera, Indonesia
+| 2020-01-07 08:13:33 | manual | 8 | 3.1 | M | 6 | 1.36 S | 122.79 E | 129 km | Sulawesi, Indonesia
+| 2020-01-07 06:05:19 | automatic | 45 | 6.1 | M | 30 | 2.50 U | 96.42 E | 10 km | Northern Sumatra, Indonesia
+| 2020-01-07 01:38:14 | manual | 47 | 5.3 | M | 30 | 5.27 S | 147.35 E | 173 km | Eastern New Guinea Reg., P.N.G.
+| 2020-01-07 01:38:14 | manual | 47 | 5.3 | M | 30 | 5.27 S | 147.35 E | 173 km | Eastern New Guinea Reg., P.N.G.

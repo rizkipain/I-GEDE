@@ -1,0 +1,4 @@
+| 2020-03-27 21:31:09 | manual | 10 | 3.1 | M | 7 | 1 S | 120.70 E | 10 km | Sulawesi, Indonesia
+| 2020-03-27 17:09:38 | manual | 9 | 2.2 | M | 6 | 4.09 S | 119.98 E | 22 km | Sulawesi, Indonesia
+| 2020-03-27 09:24:58 | manual | 7 | 3.3 | M | 6 | 1.17 S | 120.34 E | 10 km | Sulawesi, Indonesia
+| 2020-03-27 09:24:58 | manual | 7 | 3.3 | M | 6 | 1.17 S | 120.34 E | 10 km | Sulawesi, Indonesia

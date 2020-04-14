@@ -1,0 +1,18 @@
+| 2019-11-30 21:04:07 | manual | 18 | 4.4 | M | 12 | 7.41 S | 123.98 E | 579 km | Banda Sea
+| 2019-11-30 19:52:42 | manual | 31 | 5.1 | M | 21 | 26.7 S | 178.03 E | 637 km | South of Fiji Islands
+| 2019-11-30 19:49:22 | manual | 56 | 5.2 | M | 31 | 4.33 S | 131.16 E | 66 km | Banda Sea
+| 2019-11-30 16:44:55 | manual | 9 | 3.3 | M | 7 | 0.45 U | 122.05 E | 3 km | Minahassa Peninsula, Sulawesi
+| 2019-11-30 16:35:42 | manual | 18 | 4.1 | M | 10 | 8.56 S | 111.62 E | 10 km | Java, Indonesia
+| 2019-11-30 16:16:28 | manual | 32 | 5.5 | M | 24 | 27.25 S | 176.33 W | 15 km | Kermadec Islands Region
+| 2019-11-30 15:25:57 | manual | 9 | 3.5 | M | 7 | 9.12 S | 119.33 E | 164 km | Sumba Region, Indonesia
+| 2019-11-30 15:23:17 | manual | 8 | 3.3 | M | 6 | 2.91 S | 130.63 E | 10 km | Seram, Indonesia
+| 2019-11-30 13:57:51 | manual | 10 | 3.3 | M | 6 | 8.51 S | 111.71 E | 8 km | Java, Indonesia
+| 2019-11-30 09:44:15 | manual | 9 | 3.0 | M | 3 | 1.46 S | 120.69 E | 10 km | Sulawesi, Indonesia
+| 2019-11-30 05:30:59 | manual | 9 | 2.8 | M | 5 | 3.42 S | 119.58 E | 10 km | Sulawesi, Indonesia
+| 2019-11-30 05:30:59 | manual | 9 | 2.7 | M | 6 | 3.43 S | 119.56 E | 7 km | Sulawesi, Indonesia
+| 2019-11-30 05:30:58 | manual | 6 | 2.6 | M | 6 | 3.38 S | 119.50 E | 10 km | Sulawesi, Indonesia
+| 2019-11-30 05:18:59 | manual | 9 | 2.6 | M | 6 | 3.49 S | 119.44 E | 12 km | Sulawesi, Indonesia
+| 2019-11-30 05:18:59 | manual | 8 | 2.6 | M | 5 | 3.5 S | 119.44 E | 12 km | Sulawesi, Indonesia
+| 2019-11-30 04:16:45 | manual | 5 | 2.6 | M | 3 | 1.89 S | 122.55 E | 10 km | Sulawesi, Indonesia
+| 2019-11-30 04:00:28 | manual | 7 | 2.4 | M | 4 | 2.88 S | 119.48 E | 10 km | Sulawesi, Indonesia
+| 2019-11-30 04:00:28 | manual | 7 | 2.4 | M | 4 | 2.88 S | 119.48 E | 10 km | Sulawesi, Indonesia

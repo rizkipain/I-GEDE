@@ -1,0 +1,12 @@
+| 2019-12-10 19:44:41 | manual | 11 | 3.9 | M | 9 | 8.9 S | 113.01 E | 23 km | Java, Indonesia
+| 2019-12-10 18:01:06 | manual | 9 | 3.7 | M | 7 | 0.91 U | 126.07 E | 16 km | Northern Molucca Sea
+| 2019-12-10 17:05:20 | manual | 46 | 5.6 | M | 30 | 30.35 U | 141.08 E | 149 km | Southeast of Honshu, Japan
+| 2019-12-10 15:45:33 | manual | 30 | 4.8 | M | 19 | 8.17 S | 108.00 E | 91 km | Java, Indonesia
+| 2019-12-10 12:59:07 | manual | 5 | 3.7 | M | 4 | 3.13 S | 127.73 E | 5 km | Seram, Indonesia
+| 2019-12-10 12:44:05 | manual | 38 | 4.8 | M | 24 | 4.45 U | 126.21 E | 101 km | Talaud Islands, Indonesia
+| 2019-12-10 08:57:57 | manual | 5 | 2.9 | M | 3 | 0.03 U | 122.68 E | 109 km | Minahassa Peninsula, Sulawesi
+| 2019-12-10 08:32:09 | manual | 9 | 4.5 | M | 4 | 0.12 S | 125.56 E | 177 km | Southern Molucca Sea
+| 2019-12-10 00:57:18 | manual | 9 | 3.4 | M | 7 | 2.86 S | 119.48 E | 10 km | Sulawesi, Indonesia
+| 2019-12-10 00:39:03 | manual | 11 | 3.2 | M | 6 | 1.53 S | 120.23 E | 10 km | Sulawesi, Indonesia
+| 2019-12-10 00:15:10 | manual | 7 | 3.9 | M | 5 | 2.05 S | 122.51 E | 10 km | Sulawesi, Indonesia
+| 2019-12-10 00:15:10 | manual | 7 | 3.9 | M | 5 | 2.05 S | 122.51 E | 10 km | Sulawesi, Indonesia

@@ -1,0 +1,23 @@
+*{
+	margin:auto;
+	text-align: center;
+}
+
+.isi{
+  margin-top: 12.5%;
+  display: flex;
+  flex-direction: column;
+  font-size: 2.5em;
+  font-weight: bold;
+  color: white;
+}
+
+img{
+  margin-top: 1%;
+  width: 10%;
+	margin-bottom: 2%;
+}
+
+#copyright{
+  font-size: 0.5em;
+}

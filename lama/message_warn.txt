@@ -1,0 +1,8 @@
+"Info Gempa Mag: 2.8 SR, 30-Nov-2019 13:30:59 WITA, Lok: 3.42 LS-119.58 BT 
+    terjadi di darat jarak  :
+       1 Km Tenggara Kec. Lembang, Kab. Pinrang, Sulawesi Selatan;
+       17 Km Timur Kec. Binuang, Kab. Polewali Mandar, Sulawesi Barat;
+       21 Km Barat Kec. Anggeraja, Kab. Enrekang, Sulawesi Selatan;
+       23 Km Barat Daya Kec. Bonggakaradeng, Kab. Tana Toraja, Sulawesi Selatan;
+       29 Km Timur Laut Kec. Messawa, Kab. Mamasa, Sulawesi Barat 
+ Kedlmn:  10 km ::BMKG-PGRIV"

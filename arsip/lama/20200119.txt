@@ -1,0 +1,12 @@
+| 2020-01-19 16:58:20 | manual | 51 | 6.2 | M | 31 | 0.11 S | 123.91 E | 121 km | Minahassa Peninsula, Sulawesi
+| 2020-01-19 23:35:01 | manual | 8 | 4.3 | M | 6 | 3.33 U | 125.13 E | 10 km | Talaud Islands, Indonesia
+| 2020-01-19 16:58:20 | manual | 51 | 6.2 | M | 31 | 0.11 S | 123.91 E | 121 km | Minahassa Peninsula, Sulawesi
+| 2020-01-19 16:58:20 | manual | 51 | 6.2 | M | 31 | 0.12 S | 123.91 E | 120 km | Minahassa Peninsula, Sulawesi
+| 2020-01-19 13:19:17 | manual | 8 | 2.1 | M | 5 | 3.22 S | 119.40 E | 25 km | Sulawesi, Indonesia
+| 2020-01-19 13:19:17 | manual | 8 | 2.2 | M | 4 | 3.22 S | 119.42 E | 32 km | Sulawesi, Indonesia
+| 2020-01-19 12:10:47 | manual | 10 | 4.5 | M | 7 | 0.01 S | 123.28 E | 152 km | Minahassa Peninsula, Sulawesi
+| 2020-01-19 12:19:59 | manual | 8 | 3.5 | M | 6 | 2.85 S | 119.48 E | 4 km | Sulawesi, Indonesia
+| 2020-01-19 12:10:47 | manual | 10 | 4.5 | M | 7 | 0.01 S | 123.28 E | 152 km | Minahassa Peninsula, Sulawesi
+| 2020-01-19 03:06:40 | manual | 7 | 4.2 | M | 7 | 0.06 U | 123.39 E | 113 km | Minahassa Peninsula, Sulawesi
+| 2020-01-19 01:41:44 | manual | 7 | 3.0 | M | 5 | 2.17 S | 120.50 E | 108 km | Sulawesi, Indonesia
+| 2020-01-19 01:41:44 | manual | 7 | 3.0 | M | 5 | 2.17 S | 120.50 E | 108 km | Sulawesi, Indonesia

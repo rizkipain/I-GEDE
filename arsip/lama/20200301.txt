@@ -1,0 +1,8 @@
+| 2020-03-01 23:14:05 | manual | 10 | 3.1 | M | 7 | 2.94 S | 119.72 E | 7 km | Sulawesi, Indonesia
+| 2020-03-01 23:14:05 | manual | 10 | 3.1 | M | 7 | 2.94 S | 119.72 E | 7 km | Sulawesi, Indonesia
+| 2020-03-01 23:14:05 | manual | 6 | 2.9 | M | 5 | 2.94 S | 119.73 E | 7 km | Sulawesi, Indonesia
+| 2020-03-01 15:50:12 | manual | 21 | 4.7 | M | 13 | 6.3 S | 114.51 E | 505 km | Bali Sea
+| 2020-03-01 13:49:42 | manual | 6 | 3.3 | M | 6 | 0.54 S | 122.14 E | 6 km | Minahassa Peninsula, Sulawesi
+| 2020-03-01 12:34:55 | manual | 11 | 3.3 | M | 7 | 0.85 S | 120.33 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-03-01 11:07:14 | manual | 11 | 4.5 | M | 8 | 4.31 U | 126.66 E | 167 km | Talaud Islands, Indonesia
+| 2020-03-01 11:02:12 | manual | 6 | 4.1 | M | 6 | 3.26 U | 125.13 E | 202 km | Talaud Islands, Indonesia

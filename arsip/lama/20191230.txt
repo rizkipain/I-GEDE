@@ -1,0 +1,12 @@
+| 2019-12-30 22:31:45 | manual | 17 | 4.0 | M | 7 | 10.19 S | 112.97 E | 10 km | South of Java, Indonesia
+| 2019-12-30 22:05:56 | manual | 17 | 4.3 | M | 13 | 9.34 S | 119.33 E | 10 km | Sumba Region, Indonesia
+| 2019-12-30 19:58:20 | manual | 15 | 3.6 | M | 11 | 2.23 S | 121.22 E | 10 km | Sulawesi, Indonesia
+| 2019-12-30 18:39:30 | manual | 14 | 3.4 | M | 12 | 2.37 S | 121.42 E | 10 km | Sulawesi, Indonesia
+| 2019-12-30 17:18:44 | manual | 42 | 5.7 | M | 31 | 35.54 U | 72.55 E | 10 km | Pakistan
+| 2019-12-30 16:58:41 | manual | 36 | 5.5 | M | 26 | 7.42 U | 93.22 E | 10 km | Nicobar Islands, India Region
+| 2019-12-30 13:18:53 | manual | 15 | 4.8 | M | 11 | 6.53 U | 126.36 E | 10 km | Mindanao, Philippines
+| 2019-12-30 12:17:02 | manual | 7 | 2.8 | M | 6 | 2.77 S | 119.47 E | 5 km | Sulawesi, Indonesia
+| 2019-12-30 09:57:35 | manual | 7 | 2.7 | M | 3 | 3.04 S | 119.35 E | 3 km | Sulawesi, Indonesia
+| 2019-12-30 04:38:06 | manual | 5 | 2.7 | M | 4 | 2.65 S | 119.48 E | 4 km | Sulawesi, Indonesia
+| 2019-12-30 01:33:42 | manual | 9 | 3.5 | M | 7 | 1.53 S | 120.14 E | 10 km | Sulawesi, Indonesia
+| 2019-12-30 01:21:01 | manual | 6 | 2.4 | M | 6 | 8.18 S | 114.49 E | 8 km | Bali Region, Indonesia

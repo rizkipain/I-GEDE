@@ -1,0 +1,5 @@
+| 2019-12-06 17:06:42 | manual | 6 | 2.8 | M | 3 | 0.17 S | 121.86 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2019-12-06 12:03:00 | manual | 6 | 2.7 | M | 4 | 2.73 S | 119.53 E | 12 km | Sulawesi, Indonesia
+| 2019-12-06 11:25:36 | manual | 4 | 3.2 | M | 3 | 1.75 S | 122.44 E | 10 km | Sulawesi, Indonesia
+| 2019-12-06 11:05:47 | manual | 6 | 0.0 | M | | 0.07 U | 122.06 E | 110 km | Minahassa Peninsula, Sulawesi
+| 2019-12-06 04:43:08 | manual | 9 | 2.9 | M | 6 | 2.48 S | 121.05 E | 10 km | Sulawesi, Indonesia

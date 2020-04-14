@@ -1,0 +1,13 @@
+| 2020-04-08 18:19:20 | manual | 6 | 2.4 | M | 5 | 1.76 S | 120.16 E | 2 km | Sulawesi, Indonesia
+| 2020-04-08 17:13:00 | manual | 9 | 2.8 | M | 6 | 2.35 S | 121.01 E | 10 km | Sulawesi, Indonesia
+| 2020-04-08 16:51:51 | manual | 21 | 3.7 | M | 14 | 1.73 S | 120.14 E | 5 km | Sulawesi, Indonesia
+| 2020-04-08 16:33:44 | manual | 7 | 2.4 | M | 6 | 1.75 S | 120.19 E | 4 km | Sulawesi, Indonesia
+| 2020-04-08 16:51:51 | manual | 21 | 3.7 | M | 14 | 1.73 S | 120.14 E | 5 km | Sulawesi, Indonesia
+| 2020-04-08 16:33:44 | manual | 7 | 2.4 | M | 6 | 1.75 S | 120.19 E | 4 km | Sulawesi, Indonesia
+| 2020-04-08 13:20:46 | manual | 8 | 3.0 | M | 4 | 0.45 S | 123.10 E | 22 km | Minahassa Peninsula, Sulawesi
+| 2020-04-08 13:33:24 | manual | 11 | 3.3 | M | 8 | 1.69 S | 120.19 E | 10 km | Sulawesi, Indonesia
+| 2020-04-08 13:33:28 | automatic | 8 | 3.1 | M | 5 | 1.9 S | 120.13 E | 10 km | Sulawesi, Indonesia
+| 2020-04-08 03:32:03 | manual | 23 | 5.0 | M | 15 | 1.4 S | 119.94 E | 3 km | Sulawesi, Indonesia
+| 2020-04-08 03:32:03 | manual | 19 | 5.1 | M | 14 | 1.39 S | 119.96 E | 4 km | Sulawesi, Indonesia
+| 2020-04-08 02:10:54 | manual | 11 | 3.5 | M | 9 | 9.05 S | 114.41 E | 54 km | South of Bali, Indonesia
+| 2020-04-08 02:10:54 | manual | 11 | 3.5 | M | 9 | 9.05 S | 114.41 E | 54 km | South of Bali, Indonesia

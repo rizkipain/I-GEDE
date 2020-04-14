@@ -1,0 +1,5 @@
+| 2019-12-26 23:59:54 | manual | 10 | 3.9 | M | 5 | 0.87 S | 123.32 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2019-12-26 23:59:53 | manual | 5 | 4.0 | M | 4 | 0.9 S | 123.37 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2019-12-26 21:43:39 | manual | 5 | 3.6 | M | 5 | 1.35 U | 121.33 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2019-12-26 07:22:40 | manual | 20 | 4.6 | M | 13 | 7.57 S | 108.99 E | 104 km | Java, Indonesia
+| 2019-12-26 00:52:07 | manual | 5 | 3.1 | M | 5 | 0.04 S | 122.73 E | 10 km | Minahassa Peninsula, Sulawesi

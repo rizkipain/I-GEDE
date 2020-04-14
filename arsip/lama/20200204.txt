@@ -1,0 +1,5 @@
+| 2020-02-04 23:38:11 | manual | 7 | 4.6 | M | 5 | 0.02 U | 123.39 E | 147 km | Minahassa Peninsula, Sulawesi
+| 2020-02-04 21:24:40 | manual | 7 | 2.9 | M | 3 | 0.59 U | 120.87 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-02-04 04:13:50 | manual | 6 | 4.5 | M | 6 | 2.39 U | 126.13 E | 140 km | Northern Molucca Sea
+| 2020-02-04 04:13:32 | manual | 8 | 4.6 | M | 7 | 3.55 U | 126.36 E | 339 km | Talaud Islands, Indonesia
+| 2020-02-04 04:13:32 | manual | 8 | 4.6 | M | 7 | 3.55 U | 126.36 E | 339 km | Talaud Islands, Indonesia

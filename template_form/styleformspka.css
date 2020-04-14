@@ -1,0 +1,212 @@
+@page {
+    size: 21cm 29.7cm;
+	/*margin: 30mm 45mm 30mm 45mm;*/
+}
+
+*{
+  margin: 0;
+	overflow:auto;
+}
+
+/* -------------------------------------------------- header -------------------------------------------------------------*/
+#atas{
+	text-align: center;
+  margin: auto;
+	margin-top: 0.2em;
+  width: 95%;
+}
+
+.isiheader label[id="h1"]{
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+.isiheader label[id="h2"]{
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+.isiheader label[id="h3"]{
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+.isiheader label[id="h4"]{
+	font-size: 0.7em;
+	font-weight: bold;
+}
+
+.isiheader label[id="h5"]{
+	font-size: 0.7em;
+	font-weight: bold;
+}
+
+.isiheader label[id="h6"]{
+	font-size: 0.7em;
+	font-weight: bold;
+}
+
+img {
+	width: 4em;
+	height: 5em;
+}
+
+#garisheader{
+	height:0em;
+	padding:0em;
+	margin-top: 0.2em;;
+	margin-left: 0.5em;
+	margin-right:0.5em;
+	border: 0.1em solid black;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------*/
+
+.judulatas
+{
+	margin-top:1em;
+	text-align:center;
+}
+
+#judulspka{
+	font-weight: bold;
+	text-decoration-line: underline;
+  text-decoration-skip-ink: none;
+	font-size:1.25em;
+}
+
+/*------------------------------------------ tabel SATU -------------------------------------------------------------*/
+#tablesatu td[id*=awal] {
+		width: 10em;
+		font-weight: bold;
+}
+
+#tablesatu{
+	margin:0;
+  margin-top: 1.5em;
+  font-size: 0.75em;
+  font-family: arial;
+  margin-left:3em;
+}
+/*-------------------------------------------- akhir tabel SATU -----------------------------------------------------*/
+
+.pemisah{
+	margin-top: 1em;
+	margin-left:3em;
+	font-size: 0.75em;
+	font-family:arial;
+}
+
+/*--------------------------------------------- tabel DUA ---------------------------------------------------------*/
+#tabledua td, #tabledua th{
+	border: 0.1em solid black;
+	padding: 0.1em;
+}
+#tabledua{
+	position:center;
+	margin: auto;
+	width: 95%;
+	text-align: center;
+	border-collapse: collapse;
+	font-size: 0.75em;
+	padding: 5em;
+}
+/*-------------------------------------------- akhir tabel DUA ----------------------------------------------------*/
+
+/*--------------------------------------------- WADAH TABEL TIGA --------------------------------------------------------*/
+
+.wadah_tabeltiga{
+  display: flex;
+  flex-direction: row;
+  margin-top: 4em;
+}
+
+#tabletiga_kiri{
+	font-size: 0.7em;
+  width: 60%;
+  margin-left:2.5em;
+}
+
+#tabletiga_kanan{
+	margin-top: 4em;
+  margin-left: 3em;
+	font-size: 0.7em;
+  width: 15em;
+}
+
+#tabletiga_kanan td{
+  padding:0;
+  margin:0;
+}
+
+#tabletiga_kanan td[id="spacer"]{
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+}
+
+#tabletiga_kanan td[align="right"]{
+  width: 3em;
+}
+/*-------------------------------------------- akhir WADAH TABEL TIGA---------------------------------------------------*/
+
+#tandatangan{
+	margin:auto;
+	margin-top: 2em;
+	font-size:0.8em;
+}
+#tandatangan td{
+	padding-right: 3em;
+	padding-left: 3em;
+}
+
+#tandatangan td[id*=isi]{
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+
+#ttd{
+	width: 10em;
+	height: 5em;
+}
+
+/*=============================== footer nomor kertas =======================================================*/
+#nomorkertas{
+	font-size: 1em;
+	font-weight: bold;
+	position:absolute;
+  bottom:0;
+  left:0;
+}
+
+#kiri, #kanan{
+  width: 10.5cm;
+}
+/*=============================== footer nomor kertas =======================================================*/
+
+
+p{
+	margin-top:1.5em;
+}
+
+#petunjuk_simola {
+  display: block;
+  width:70%;
+  height: auto;
+  margin: auto;
+}
+
+#tablesimola{
+	margin:auto;
+	margin-top:0.2em;
+  margin-bottom: 2em;
+}
+
+#tablesimola td{
+	padding:0.4em;
+}
+
+.simola{
+  margin-left: 2em;
+  margin-right: 2em;
+  font-size: 90%;
+}

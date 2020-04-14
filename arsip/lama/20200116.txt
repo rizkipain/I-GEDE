@@ -1,0 +1,10 @@
+| 2020-01-16 21:33:02 | manual | 8 | 3.4 | M | 6 | 0.42 S | 124.40 E | 184 km | Southern Molucca Sea
+| 2020-01-16 15:52:35 | manual | 10 | 3.8 | M | 7 | 1.85 S | 122.67 E | 9 km | Sulawesi, Indonesia
+| 2020-01-16 14:37:23 | manual | 4 | 2.6 | M | 3 | 2.92 S | 119.35 E | 3 km | Sulawesi, Indonesia
+| 2020-01-16 14:05:27 | manual | 12 | 4.2 | M | 9 | 0.63 U | 119.40 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-01-16 11:46:32 | manual | 6 | 2.5 | M | 4 | 5.71 S | 120.61 E | 10 km | Sulawesi, Indonesia
+| 2020-01-16 09:54:05 | manual | 5 | 2.6 | M | 3 | 5.59 S | 120.85 E | 10 km | Sulawesi, Indonesia
+| 2020-01-16 09:47:00 | manual | 5 | 3.5 | M | 5 | 5.71 S | 120.57 E | 10 km | Sulawesi, Indonesia
+| 2020-01-16 08:35:23 | manual | 10 | 4.3 | M | 6 | 5.71 S | 120.61 E | 10 km | Sulawesi, Indonesia
+| 2020-01-16 07:53:55 | manual | 6 | 4.2 | M | 6 | 2.79 S | 129.15 E | 10 km | Seram, Indonesia
+| 2020-01-16 05:06:55 | manual | 4 | 2.4 | M | 4 | 2.7 S | 119.46 E | 5 km | Sulawesi, Indonesia

@@ -1,0 +1,7 @@
+| 2019-12-12 23:22:36 | manual | 8 | 2.7 | M | 7 | 2.82 S | 119.47 E | 10 km | Sulawesi, Indonesia
+| 2019-12-12 15:07:30 | manual | 4 | 3.3 | M | 3 | 2.96 S | 122.32 E | 0 km | Sulawesi, Indonesia
+| 2019-12-12 13:07:09 | manual | 6 | 3.0 | M | 3 | 2.1 S | 122.07 E | 9 km | Sulawesi, Indonesia
+| 2019-12-12 11:52:25 | manual | 6 | 2.4 | M | 4 | 2.88 S | 119.48 E | 4 km | Sulawesi, Indonesia
+| 2019-12-12 03:35:10 | manual | 7 | 4.3 | M | 4 | 1.45 U | 126.49 E | 34 km | Northern Molucca Sea
+| 2019-12-12 03:17:39 | manual | 8 | 3.0 | M | 4 | 0.03 S | 123.08 E | 143 km | Minahassa Peninsula, Sulawesi
+| 2019-12-12 03:17:40 | manual | 8 | 3.0 | M | 4 | 0.03 S | 123.08 E | 143 km | Minahassa Peninsula, Sulawesi

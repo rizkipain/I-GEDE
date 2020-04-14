@@ -1,0 +1,10 @@
+| 2020-03-26 23:57:12 | manual | 6 | 3.5 | M | 5 | 0.06 U | 123.95 E | 120 km | Minahassa Peninsula, Sulawesi
+| 2020-03-26 23:09:53 | manual | 8 | 2.8 | M | 6 | 4.12 S | 119.99 E | 10 km | Sulawesi, Indonesia
+| 2020-03-26 22:44:51 | manual | 5 | 3.5 | M | 3 | 1.88 S | 120.45 E | 10 km | Sulawesi, Indonesia
+| 2020-03-26 21:58:58 | manual | 19 | 4.6 | M | 13 | 4.1 S | 120.17 E | 10 km | Sulawesi, Indonesia
+| 2020-03-26 21:58:58 | manual | 19 | 4.6 | M | 12 | 4.1 S | 120.17 E | 10 km | Sulawesi, Indonesia
+| 2020-03-26 16:41:27 | manual | 15 | 4.5 | M | 10 | 3.37 U | 125.78 E | 150 km | Talaud Islands, Indonesia
+| 2020-03-26 15:38:06 | manual | 59 | 6.1 | M | 36 | 5.61 U | 125.19 E | 62 km | Mindanao, Philippines
+| 2020-03-26 02:01:03 | manual | 4 | 0.0 | M | | 4.67 S | 118.74 E | 10 km | Sulawesi, Indonesia
+| 2020-03-26 02:01:03 | manual | 4 | 0.0 | M | | 4.66 S | 118.76 E | 10 km | Sulawesi, Indonesia
+| 2020-03-26 02:01:03 | manual | 4 | 0.0 | M | | 4.66 S | 118.76 E | 10 km | Sulawesi, Indonesia

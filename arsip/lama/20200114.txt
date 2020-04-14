@@ -1,0 +1,6 @@
+| 2020-01-14 22:00:15 | manual | 9 | 3.5 | M | 6 | 1.15 U | 121.66 E | 3 km | Minahassa Peninsula, Sulawesi
+| 2020-01-14 22:00:15 | manual | 7 | 3.1 | M | 6 | 1.17 U | 121.67 E | 4 km | Minahassa Peninsula, Sulawesi
+| 2020-01-14 19:26:14 | manual | 17 | 3.9 | M | 13 | 7.62 S | 117.63 E | 230 km | Bali Sea
+| 2020-01-14 17:38:17 | manual | 6 | 2.9 | M | 6 | 1.02 U | 121.16 E | 5 km | Minahassa Peninsula, Sulawesi
+| 2020-01-14 04:10:32 | manual | 6 | 3.0 | M | 5 | 0.57 S | 122.73 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-01-14 04:10:32 | manual | 6 | 3.0 | M | 5 | 0.57 S | 122.73 E | 10 km | Minahassa Peninsula, Sulawesi

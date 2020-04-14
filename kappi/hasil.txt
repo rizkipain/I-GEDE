@@ -1,0 +1,6 @@
+date
+| 192.168.1.40 | 5 packets transmitted, 5 packets received, 0.0% packet loss
+| 192.168.1.41 | 5 packets transmitted, 5 packets received, 0.0% packet loss
+| 192.168.1.42 | 5 packets transmitted, 5 packets received, 0.0% packet loss
+| 192.168.1.11 | 5 packets transmitted, 5 packets received, 0.0% packet loss
+| 192.168.1.12 | 5 packets transmitted, 5 packets received, 0.0% packet loss

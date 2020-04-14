@@ -1,0 +1,6 @@
+| 2020-02-11 19:55:59 | manual | 7 | 3.9 | M | 7 | 2.9 S | 119.32 E | 10 km | Sulawesi, Indonesia
+| 2020-02-11 19:55:59 | manual | 7 | 3.9 | M | 7 | 2.91 S | 119.35 E | 0 km | Sulawesi, Indonesia
+| 2020-02-11 15:13:30 | manual | 14 | 4.5 | M | 11 | 0 S | 123.71 E | 94 km | Minahassa Peninsula, Sulawesi
+| 2020-02-11 03:04:56 | manual | 13 | 4.5 | M | 11 | 0.03 S | 123.74 E | 125 km | Minahassa Peninsula, Sulawesi
+| 2020-02-11 02:30:05 | manual | 9 | 3.4 | M | 6 | 3.83 S | 129.50 E | 109 km | Seram, Indonesia
+| 2020-02-11 02:30:05 | manual | 9 | 3.4 | M | 6 | 3.83 S | 129.50 E | 109 km | Seram, Indonesia

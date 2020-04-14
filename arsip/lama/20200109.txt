@@ -1,0 +1,12 @@
+| 2020-01-09 12:46:20 | manual | 8 | 2.7 | M | 6 | 2.79 S | 119.33 E | 5 km | Sulawesi, Indonesia
+| 2020-01-09 12:46:20 | manual | 8 | 2.7 | M | 6 | 2.79 S | 119.33 E | 5 km | Sulawesi, Indonesia
+| 2020-01-09 19:12:47 | manual | 8 | 3.8 | M | 6 | 1.13 U | 126.55 E | 5 km | Northern Molucca Sea
+| 2020-01-09 18:52:36 | manual | 44 | 5.0 | M | 29 | 4.87 S | 143.62 E | 114 km | New Guinea, Papua New Guinea
+| 2020-01-09 18:39:25 | manual | 9 | 3.6 | M | 7 | 0.79 S | 128.14 E | 90 km | Halmahera, Indonesia
+| 2020-01-09 18:39:25 | manual | 7 | 3.5 | M | 6 | 0.79 S | 128.14 E | 91 km | Halmahera, Indonesia
+| 2020-01-09 17:11:18 | manual | 11 | 3.2 | M | 8 | 2.87 S | 119.50 E | 6 km | Sulawesi, Indonesia
+| 2020-01-09 14:41:05 | manual | 8 | 4.2 | M | 6 | 9.85 S | 122.04 E | 10 km | Savu Sea
+| 2020-01-09 14:32:28 | manual | 9 | 3.1 | M | 5 | 0.14 U | 121.46 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-01-09 00:33:07 | manual | 5 | 2.6 | M | 3 | 2.92 S | 119.44 E | 5 km | Sulawesi, Indonesia
+| 2020-01-09 00:18:27 | manual | 5 | 2.8 | M | 4 | 2.88 S | 119.46 E | 14 km | Sulawesi, Indonesia
+| 2020-01-09 00:18:27 | manual | 5 | 2.8 | M | 4 | 2.88 S | 119.46 E | 14 km | Sulawesi, Indonesia

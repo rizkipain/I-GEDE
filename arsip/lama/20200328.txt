@@ -1,0 +1,30 @@
+| 2020-03-28 23:48:24 | manual | 10 | 3.5 | M | 7 | 1.81 S | 120.24 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 23:45:38 | manual | 15 | 4.0 | M | 10 | 1.73 S | 120.19 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 23:45:38 | manual | 15 | 4.0 | M | 9 | 1.73 S | 120.19 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 23:45:40 | automatic | 16 | 3.9 | M | 3 | 1.77 S | 120.20 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 20:47:00 | manual | 10 | 2.9 | M | 7 | 1.57 S | 119.97 E | 15 km | Sulawesi, Indonesia
+| 2020-03-28 21:20:36 | manual | 6 | 2.2 | M | 5 | 2.43 S | 119.73 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 21:09:52 | manual | 8 | 2.7 | M | 7 | 1.77 S | 120.19 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 22:18:05 | manual | 9 | 4.0 | M | 7 | 2.00 U | 126.78 E | 13 km | Northern Molucca Sea
+| 2020-03-28 20:51:36 | manual | 14 | 3.3 | M | 11 | 1.83 S | 120.22 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 20:51:39 | automatic | 9 | 3.3 | M | 6 | 2.05 S | 120.22 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 19:41:02 | manual | 6 | 2.7 | M | 5 | 1.8 S | 120.10 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 18:51:41 | manual | 8 | 2.5 | M | 6 | 2.27 S | 119.97 E | 34 km | Sulawesi, Indonesia
+| 2020-03-28 18:29:16 | manual | 18 | 3.8 | M | 13 | 1.75 S | 120.17 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 17:39:05 | manual | 13 | 3.7 | M | 8 | 1.65 S | 120.09 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 17:39:04 | manual | 13 | 3.7 | M | 8 | 1.69 S | 120.10 E | 0 km | Sulawesi, Indonesia
+| 2020-03-28 17:07:28 | manual | 7 | 2.8 | M | 6 | 1.86 S | 120.23 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 16:40:14 | manual | 9 | 2.8 | M | 7 | 1.82 S | 120.15 E | 16 km | Sulawesi, Indonesia
+| 2020-03-28 16:18:23 | manual | 9 | 3.2 | M | 6 | 1.92 S | 120.35 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 16:22:03 | manual | 19 | 4.2 | M | 13 | 1.71 S | 120.17 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 16:18:23 | manual | 9 | 3.2 | M | 6 | 1.92 S | 120.35 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 16:00:04 | manual | 8 | 3.4 | M | 7 | 1.84 S | 120.21 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 15:55:33 | manual | 16 | 4.2 | M | 13 | 1.72 S | 120.05 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 15:43:18 | manual | 26 | 6.0 | M | 19 | 1.73 S | 120.16 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 15:43:19 | automatic | 48 | 5.8 | M | 24 | 1.72 S | 120.18 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 15:43:19 | automatic | 47 | 5.9 | M | 24 | 1.72 S | 120.18 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 15:43:18 | automatic | 34 | 6.1 | M | 11 | 1.71 S | 120.18 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 07:23:32 | manual | 10 | 2.6 | M | 6 | 2.83 S | 119.43 E | 4 km | Sulawesi, Indonesia
+| 2020-03-28 06:00:42 | manual | 8 | 2.9 | M | 4 | 0.26 S | 122.81 E | 26 km | Minahassa Peninsula, Sulawesi
+| 2020-03-28 02:35:41 | manual | 14 | 3.7 | M | 9 | 2.84 S | 119.39 E | 10 km | Sulawesi, Indonesia
+| 2020-03-28 02:35:41 | manual | 14 | 3.7 | M | 9 | 2.84 S | 119.39 E | 10 km | Sulawesi, Indonesia

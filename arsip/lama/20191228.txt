@@ -1,0 +1,10 @@
+| 2019-12-28 17:03:28 | manual | 7 | 3.0 | M | 6 | 2.82 S | 119.48 E | 3 km | Sulawesi, Indonesia
+| 2019-12-28 16:46:48 | manual | 9 | 3.3 | M | 7 | 2.03 S | 120.37 E | 10 km | Sulawesi, Indonesia
+| 2019-12-28 12:59:13 | manual | 6 | 2.7 | M | 5 | 0.89 U | 121.63 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2019-12-28 12:08:32 | manual | 15 | 5.5 | M | 11 | 6.47 S | 130.28 E | 161 km | Banda Sea
+| 2019-12-28 06:13:56 | manual | 7 | 2.6 | M | 6 | 0.14 U | 122.41 E | 142 km | Minahassa Peninsula, Sulawesi
+| 2019-12-28 05:12:46 | manual | 8 | 2.8 | M | 7 | 2.53 S | 119.68 E | 27 km | Sulawesi, Indonesia
+| 2019-12-28 01:59:44 | manual | 36 | 5.1 | M | 20 | 4.74 U | 126.01 E | 52 km | Talaud Islands, Indonesia
+| 2019-12-28 01:55:40 | manual | 8 | 4.0 | M | 6 | 5.07 S | 129.48 E | 266 km | Banda Sea
+| 2019-12-28 00:52:26 | manual | 7 | 2.7 | M | 6 | 2.59 S | 119.24 E | 7 km | Sulawesi, Indonesia
+| 2019-12-28 00:52:26 | manual | 7 | 2.7 | M | 6 | 2.59 S | 119.24 E | 7 km | Sulawesi, Indonesia

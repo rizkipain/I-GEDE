@@ -1,0 +1,16 @@
+| 2020-03-30 23:48:32 | manual | 9 | 2.5 | M | 6 | 4.39 S | 120.59 E | 10 km | Sulawesi, Indonesia
+| 2020-03-30 23:57:09 | automatic | 10 | 4.2 | M | 6 | 0.80 U | 121.86 E | 61 km | Minahassa Peninsula, Sulawesi
+| 2020-03-30 14:45:44 | manual | 11 | 3.8 | M | 9 | 1.68 S | 120.16 E | 10 km | Sulawesi, Indonesia
+| 2020-03-30 14:48:41 | automatic | 9 | 4.5 | M | 3 | 9.64 S | 112.85 E | 10 km | South of Java, Indonesia
+| 2020-03-30 14:45:44 | manual | 11 | 3.8 | M | 9 | 1.68 S | 120.16 E | 10 km | Sulawesi, Indonesia
+| 2020-03-30 14:43:43 | manual | 17 | 3.7 | M | 10 | 1.67 S | 120.03 E | 10 km | Sulawesi, Indonesia
+| 2020-03-30 14:43:45 | automatic | 17 | 3.6 | M | 5 | 1.77 S | 120.10 E | 10 km | Sulawesi, Indonesia
+| 2020-03-30 14:24:16 | manual | 13 | 3.1 | M | 8 | 1.71 S | 120.13 E | 10 km | Sulawesi, Indonesia
+| 2020-03-30 13:27:14 | manual | 7 | 2.6 | M | 5 | 5.88 S | 120.83 E | 10 km | Sulawesi, Indonesia
+| 2020-03-30 12:36:36 | manual | 18 | 3.3 | M | 6 | 3.45 S | 120.49 E | 10 km | Sulawesi, Indonesia
+| 2020-03-30 12:36:36 | manual | 16 | 3.3 | M | 6 | 3.46 S | 120.49 E | 10 km | Sulawesi, Indonesia
+| 2020-03-30 10:16:25 | manual | 11 | 3.4 | M | 6 | 1.61 S | 122.53 E | 13 km | Sulawesi, Indonesia
+| 2020-03-30 00:28:02 | manual | 13 | 3.6 | M | 6 | 2.51 S | 129.66 E | 10 km | Seram, Indonesia
+| 2020-03-30 00:28:02 | manual | 9 | 3.6 | M | 6 | 2.5 S | 129.65 E | 10 km | Seram, Indonesia
+| 2020-03-30 00:06:48 | manual | 10 | 3.6 | M | 7 | 2.72 S | 129.73 E | 10 km | Seram, Indonesia
+| 2020-03-30 00:06:48 | manual | 10 | 3.6 | M | 7 | 2.72 S | 129.73 E | 10 km | Seram, Indonesia

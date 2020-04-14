@@ -1,0 +1,8 @@
+| 2019-12-08 23:59:25 | manual | 7 | 3.0 | M | 7 | 2.81 S | 119.40 E | 10 km | Sulawesi, Indonesia
+| 2019-12-08 21:23:22 | manual | 8 | 2.5 | M | 6 | 2.81 S | 119.42 E | 4 km | Sulawesi, Indonesia
+| 2019-12-08 13:20:56 | manual | 8 | 3.0 | M | 5 | 0.21 S | 122.73 E | 21 km | Minahassa Peninsula, Sulawesi
+| 2019-12-08 08:14:16 | manual | 10 | 3.2 | M | 7 | 0.25 U | 122.14 E | 100 km | Minahassa Peninsula, Sulawesi
+| 2019-12-08 06:15:02 | manual | 7 | 3.3 | M | 6 | 10.17 S | 122.51 E | 10 km | Savu Sea
+| 2019-12-08 06:03:18 | manual | 8 | 4.5 | M | 5 | 1.92 U | 128.91 E | 69 km | Halmahera, Indonesia
+| 2019-12-08 03:28:57 | manual | 11 | 2.9 | M | 7 | 4.89 S | 118.48 E | 10 km | Sulawesi, Indonesia
+| 2019-12-08 03:28:57 | manual | 11 | 2.9 | M | 7 | 4.89 S | 118.48 E | 10 km | Sulawesi, Indonesia

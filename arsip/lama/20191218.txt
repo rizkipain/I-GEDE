@@ -1,0 +1,15 @@
+| 2019-12-18 13:17:56 | manual | 11 | 4.0 | M | 9 | 2.28 S | 120.85 E | 10 km | Sulawesi, Indonesia
+| 2019-12-18 11:49:32 | manual | 5 | 2.5 | M | 5 | 0.95 S | 121.59 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2019-12-18 11:42:43 | manual | 16 | 4.3 | M | 12 | 0.83 S | 121.50 E | 7 km | Minahassa Peninsula, Sulawesi
+| 2019-12-18 09:42:57 | manual | 11 | 3.5 | M | 4 | 0.9 S | 121.48 E | 1 km | Minahassa Peninsula, Sulawesi
+| 2019-12-18 06:23:31 | manual | 4 | 2.7 | M | 4 | 0.44 U | 122.44 E | 51 km | Minahassa Peninsula, Sulawesi
+| 2019-12-18 05:30:34 | manual | 5 | 2.6 | M | 5 | 0.07 U | 122.33 E | 82 km | Minahassa Peninsula, Sulawesi
+| 2019-12-18 05:27:30 | manual | 4 | 3.3 | M | 4 | 9.75 S | 122.79 E | 10 km | Savu Sea
+| 2019-12-18 05:19:30 | manual | 12 | 3.4 | M | 10 | 6.97 S | 110.98 E | 10 km | Java, Indonesia
+| 2019-12-18 03:11:10 | manual | 7 | 2.9 | M | 7 | 2.85 S | 119.42 E | 2 km | Sulawesi, Indonesia
+| 2019-12-18 01:56:42 | manual | 25 | 5.5 | M | 16 | 29.66 S | 177.83 W | 33 km | Kermadec Islands, New Zealand
+| 2019-12-18 01:58:25 | manual | 25 | 5.3 | M | 4 | 28.24 S | 175.18 E | 725 km | North of New Zealand
+| 2019-12-18 01:05:24 | manual | 15 | 4.2 | M | 9 | 1.89 U | 126.00 E | 62 km | Northern Molucca Sea
+| 2019-12-18 01:00:11 | manual | 12 | 3.8 | M | 10 | 1.11 S | 124.62 E | 89 km | Southern Molucca Sea
+| 2019-12-18 00:22:51 | manual | 57 | 4.8 | M | 39 | 5.61 U | 125.27 E | 100 km | Mindanao, Philippines
+| 2019-12-18 00:22:51 | manual | 57 | 4.8 | M | 39 | 5.61 U | 125.27 E | 100 km | Mindanao, Philippines

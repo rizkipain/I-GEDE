@@ -1,0 +1,12 @@
+| 2020-02-12 06:59:10 | manual | 12 | 3.4 | M | 8 | 6.17 S | 119.91 E | 10 km | Flores Sea
+| 2020-02-12 20:54:03 | manual | 7 | 2.4 | M | 4 | 2.83 S | 119.43 E | 16 km | Sulawesi, Indonesia
+| 2020-02-12 10:43:51 | manual | 12 | 4.0 | M | 10 | 1.14 U | 124.34 E | 356 km | Minahassa Peninsula, Sulawesi
+| 2020-02-12 10:34:48 | manual | 8 | 4.1 | M | 7 | 9.54 S | 124.48 E | 38 km | Timor Region
+| 2020-02-12 10:04:26 | manual | 25 | 4.9 | M | 18 | 1.9 S | 122.66 E | 59 km | Sulawesi, Indonesia
+| 2020-02-12 08:41:23 | manual | 13 | 4.8 | M | 7 | 0.54 U | 124.93 E | 49 km | Minahassa Peninsula, Sulawesi
+| 2020-02-12 06:59:10 | manual | 12 | 3.4 | M | 8 | 6.17 S | 119.91 E | 10 km | Flores Sea
+| 2020-02-12 06:47:48 | manual | 7 | 3.1 | M | 6 | 1.18 S | 120.41 E | 10 km | Sulawesi, Indonesia
+| 2020-02-12 06:39:34 | manual | 7 | 3.2 | M | 6 | 1.98 S | 121.11 E | 4 km | Sulawesi, Indonesia
+| 2020-02-12 06:43:51 | manual | 9 | 3.0 | M | 7 | 2.92 S | 119.89 E | 64 km | Sulawesi, Indonesia
+| 2020-02-12 06:04:44 | manual | 8 | 3.8 | M | 7 | 0.85 U | 126.24 E | 10 km | Northern Molucca Sea
+| 2020-02-12 06:04:44 | manual | 8 | 3.8 | M | 7 | 0.85 U | 126.24 E | 10 km | Northern Molucca Sea

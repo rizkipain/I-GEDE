@@ -1,0 +1,11 @@
+| 2020-04-02 20:42:18 | manual | 7 | 2.3 | M | 7 | 1.54 S | 120.21 E | 10 km | Sulawesi, Indonesia
+| 2020-04-02 20:42:18 | manual | 7 | 2.4 | M | 7 | 1.56 S | 120.20 E | 0 km | Sulawesi, Indonesia
+| 2020-04-02 19:24:55 | manual | 6 | 2.0 | M | 6 | 2.96 S | 119.50 E | 9 km | Sulawesi, Indonesia
+| 2020-04-02 20:42:18 | manual | 7 | 2.4 | M | 7 | 1.56 S | 120.20 E | 0 km | Sulawesi, Indonesia
+| 2020-04-02 17:02:47 | manual | 11 | 2.6 | M | 8 | 2.35 S | 120.65 E | 5 km | Sulawesi, Indonesia
+| 2020-04-02 15:47:38 | manual | 6 | 2.8 | M | 6 | 1.37 S | 122.51 E | 18 km | Sulawesi, Indonesia
+| 2020-04-02 15:22:38 | manual | 10 | 2.5 | M | 8 | 1.72 S | 120.16 E | 10 km | Sulawesi, Indonesia
+| 2020-04-02 12:48:08 | manual | 7 | 2.0 | M | 5 | 2.86 S | 119.40 E | 4 km | Sulawesi, Indonesia
+| 2020-04-02 03:14:49 | manual | 9 | 2.8 | M | 6 | 2.28 S | 121.23 E | 10 km | Sulawesi, Indonesia
+| 2020-04-02 01:45:14 | manual | 11 | 3.2 | M | 8 | 2.77 S | 119.51 E | 21 km | Sulawesi, Indonesia
+| 2020-04-02 01:45:14 | manual | 11 | 3.2 | M | 8 | 2.77 S | 119.51 E | 21 km | Sulawesi, Indonesia

@@ -1,0 +1,8 @@
+| 2020-02-07 17:36:19 | manual | 7 | 2.5 | M | 4 | 3.2 S | 119.33 E | 5 km | Sulawesi, Indonesia
+| 2020-02-07 10:21:41 | manual | 6 | 2.7 | M | 5 | 2.79 S | 119.52 E | 8 km | Sulawesi, Indonesia
+| 2020-02-07 10:36:40 | manual | 7 | 4.3 | M | 6 | 9.13 S | 110.50 E | 3 km | South of Java, Indonesia
+| 2020-02-07 08:44:25 | manual | 9 | 4.2 | M | 7 | 0.16 U | 123.68 E | 80 km | Minahassa Peninsula, Sulawesi
+| 2020-02-07 08:44:25 | manual | 6 | 4.1 | M | 6 | 0.16 U | 123.68 E | 80 km | Minahassa Peninsula, Sulawesi
+| 2020-02-07 05:35:13 | manual | 8 | 3.0 | M | 5 | 1.00 U | 121.39 E | 22 km | Minahassa Peninsula, Sulawesi
+| 2020-02-07 05:35:13 | manual | 6 | 2.7 | M | 3 | 1.06 U | 121.41 E | 32 km | Minahassa Peninsula, Sulawesi
+| 2020-02-07 05:06:32 | manual | 6 | 3.7 | M | 4 | 1.05 S | 138.67 E | 0 km | Near North Coast of Irian Jaya

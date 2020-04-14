@@ -1,0 +1,18 @@
+| 2019-12-15 21:22:44 | manual | 12 | 4.5 | M | 9 | 3.64 U | 123.57 E | 30 km | Celebes Sea
+| 2019-12-15 20:47:41 | manual | 9 | 4.3 | M | 7 | 3.87 U | 124.24 E | 10 km | Celebes Sea
+| 2019-12-15 20:00:14 | manual | 7 | 3.3 | M | 7 | 0.37 U | 121.51 E | 59 km | Minahassa Peninsula, Sulawesi
+| 2019-12-15 18:44:24 | manual | 14 | 3.9 | M | 11 | 4.96 S | 129.06 E | 245 km | Banda Sea
+| 2019-12-15 18:24:24 | manual | 31 | 4.7 | M | 20 | 5.55 U | 125.46 E | 93 km | Mindanao, Philippines
+| 2019-12-15 18:16:51 | manual | 29 | 4.9 | M | 22 | 6.24 U | 125.23 E | 10 km | Mindanao, Philippines
+| 2019-12-15 17:02:38 | manual | 7 | 2.5 | M | 6 | 2.73 S | 119.53 E | 4 km | Sulawesi, Indonesia
+| 2019-12-15 16:54:33 | manual | 7 | 4.1 | M | 7 | 3.3 S | 140.13 E | 24 km | Irian Jaya, Indonesia
+| 2019-12-15 16:34:44 | manual | 6 | 3.0 | M | 6 | 0.29 S | 122.94 E | 64 km | Minahassa Peninsula, Sulawesi
+| 2019-12-15 13:31:06 | manual | 6 | 2.2 | M | 4 | 3.31 S | 119.22 E | 3 km | Sulawesi, Indonesia
+| 2019-12-15 12:49:48 | manual | 8 | 3.7 | M | 6 | 3.13 S | 130.77 E | 24 km | Seram, Indonesia
+| 2019-12-15 12:04:17 | manual | 7 | 2.6 | M | 6 | 8.97 S | 114.87 E | 78 km | Bali Region, Indonesia
+| 2019-12-15 10:16:17 | manual | 12 | 4.3 | M | 8 | 0.13 S | 122.90 E | 87 km | Minahassa Peninsula, Sulawesi
+| 2019-12-15 04:11:52 | manual | 10 | 3.7 | M | 7 | 0.09 S | 123.52 E | 130 km | Minahassa Peninsula, Sulawesi
+| 2019-12-15 04:11:52 | manual | 10 | 3.7 | M | 7 | 0.05 S | 123.47 E | 123 km | Minahassa Peninsula, Sulawesi
+| 2019-12-15 04:11:54 | manual | 9 | 3.7 | M | 5 | 0.03 S | 123.37 E | 117 km | Minahassa Peninsula, Sulawesi
+| 2019-12-15 01:33:17 | manual | 4 | 2.6 | M | 3 | 1.92 S | 122.66 E | 10 km | Sulawesi, Indonesia
+| 2019-12-15 01:33:17 | manual | 4 | 2.6 | M | 3 | 1.92 S | 122.66 E | 10 km | Sulawesi, Indonesia

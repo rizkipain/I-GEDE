@@ -1,0 +1,7 @@
+| 2020-03-10 18:59:20 | manual | 6 | 0.0 | M | 4 | 2.62 S | 119.54 E | 10 km | Sulawesi, Indonesia
+| 2020-03-10 14:06:39 | manual | 49 | 0.0 | M | 31 | 6.05 S | 103.63 E | 107 km | Southwest of Sumatra, Indonesia
+| 2020-03-10 11:55:21 | manual | 7 | 0.0 | M | 6 | 1.22 U | 122.09 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-03-10 10:18:06 | manual | 47 | 0.0 | M | 30 | 7.01 S | 106.37 E | 34 km | Java, Indonesia
+| 2020-03-10 08:52:18 | manual | 40 | 0.0 | M | 21 | 2.54 S | 128.82 E | 10 km | Ceram Sea
+| 2020-03-10 08:34:36 | manual | 6 | 0.0 | M | 6 | 0.55 U | 122.47 E | 50 km | Minahassa Peninsula, Sulawesi
+| 2020-03-10 03:34:34 | manual | 7 | 0.0 | M | 6 | 9.19 S | 114.93 E | 26 km | South of Bali, Indonesia

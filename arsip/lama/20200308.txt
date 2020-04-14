@@ -1,0 +1,5 @@
+| 2020-03-08 21:36:38 | manual | 10 | 4.3 | M | 6 | 0.08 S | 123.71 E | 109 km | Minahassa Peninsula, Sulawesi
+| 2020-03-08 12:11:13 | manual | 14 | 4.5 | M | 10 | 10.24 S | 115.52 E | 215 km | South of Bali, Indonesia
+| 2020-03-08 11:58:52 | manual | 13 | 4.1 | M | 10 | 9.06 S | 118.97 E | 14 km | Sumbawa Region, Indonesia
+| 2020-03-08 07:26:29 | manual | 9 | 3.5 | M | 7 | 8.15 S | 117.27 E | 10 km | Sumbawa Region, Indonesia
+| 2020-03-08 07:26:29 | manual | 9 | 3.5 | M | 7 | 8.15 S | 117.27 E | 10 km | Sumbawa Region, Indonesia

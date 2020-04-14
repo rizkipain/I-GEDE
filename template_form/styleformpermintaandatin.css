@@ -1,0 +1,116 @@
+@page {
+    size: 21cm 29.7cm;
+	/*margin: 30mm 45mm 30mm 45mm;*/
+}
+
+*{
+  margin: 0;
+	overflow:auto;
+}
+
+/* -------------------------------------------------- border luar-------------------------------------------------------------*/
+.borderluar{
+  border: 0.1em solid black;
+  width: 97.5%;
+  margin: auto;
+}
+/* ----------------------------------------------- akhir border luar ---------------------------------------------------------*/
+
+#judul{
+  text-align: center;
+  margin-top: 0.75em;
+  font-size: 1.25em;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* ================================================== tabel identitas =======================================================*/
+#isi_identitas{
+  width: 95%;
+  margin: auto;
+  margin-top: 1.25em;
+  font-size: 1.25em;
+  border-collapse: collapse;
+}
+
+#isi_identitas td{
+  padding: 0.5em;
+}
+#isi_identitas tr.kolom td{
+  border-bottom:1pt solid black;
+  border-top:1pt solid black;
+}
+
+#isi_identitas tr.kolom td:first-child{
+  border-left: 1pt solid black;
+}
+
+#isi_identitas tr.kolom td:last-child{
+  border-right: 1pt solid black;
+}
+
+#isi_identitas td[id*=awal]{
+  width: 30%;
+}
+
+#pengecualian{
+  font-size: 0.75em;
+}
+/*==================================================akhir tabel identitas ===================================================*/
+
+
+/*================================================ tabel rekap datin ========================================================*/
+#isi_permintaandatin{
+  margin: auto;
+  margin-top: 0.5em;
+  border-collapse: collapse;
+  width: 95%;
+  font-size: 0.8em;
+}
+
+#isi_permintaandatin th, #isi_permintaandatin td{
+  border: 0.01em solid black;
+}
+
+#isi_permintaandatin td[id=kolom2]{
+  width: 35%;
+}
+
+#isi_permintaandatin td[id=kolom3], #isi_permintaandatin td[id=kolom4], #isi_permintaandatin td[id=kolom5]{
+  width: 3%;
+}
+
+#isi_permintaandatin td[id=kolom7]{
+  width: 20%;
+}
+
+#isi_permintaandatin th, #isi_permintaandatin td {
+  padding: 0.5em;
+}
+/*================================================== akhir rekap datin ======================================================*/
+
+
+/*-------------------------------------------------- tabel tandatangan_pemohon ------------------------------------------------------*/
+#tandatangan_pemohon{
+  margin: 1em 2em 0.5em auto ;
+}
+img[id="tantangan_pemohon"]{
+  width: 100%;
+}
+
+#tandatangan_pemohon td[id="isi"]{
+  width: 5em;;
+  height: 5em;
+}
+/*------------------------------------------------- akhir tabel tandatangan_pemohon ------------------------------------------------*/
+
+/*================================================== tabel tandatangan_petugas ======================================================*/
+
+#tandatangan_petugas{
+  margin: 1em 2em 0.5em auto ;
+}
+
+#tandatangan_petugas td[id="isi"]{
+  padding-top: 2em;
+	padding-bottom: 2em;
+}

@@ -1,0 +1,134 @@
+@page {
+    size: 21cm 29.7cm;
+	/*margin: 30mm 45mm 30mm 45mm;*/
+}
+
+*{
+  margin: 0;
+	overflow:auto;
+}
+
+/* -------------------------------------------------- header -------------------------------------------------------------*/
+#atas{
+	text-align: center;
+  margin: auto;
+	margin-top: 0.2em;
+  width: 95%;
+}
+
+.isiheader label[id="h1"]{
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+.isiheader label[id="h2"]{
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+.isiheader label[id="h3"]{
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+.isiheader label[id="h4"]{
+	font-size: 0.7em;
+	font-weight: bold;
+}
+
+.isiheader label[id="h5"]{
+	font-size: 0.7em;
+	font-weight: bold;
+}
+
+.isiheader label[id="h6"]{
+	font-size: 0.7em;
+	font-weight: bold;
+}
+
+img {
+	width: 4em;
+	height: 5em;
+}
+
+#garisheader{
+	height:0em;
+	padding:0em;
+	margin-top: 0.2em;;
+	margin-left: 0.5em;
+	margin-right:0.5em;
+	border: 0.1em solid black;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------*/
+
+/*------------------------------------------------ tabel judul -------------------------------------------------------*/
+#tabeljudul{
+	margin: auto;
+	margin-top:1em;
+}
+
+#tabeljudul th{
+	font-size: 1.3em;
+	text-decoration-line: underline;
+  text-decoration-skip-ink: none;
+}
+
+#tabeljudul td[id*="awal"]{
+  width: 8em;
+}
+
+#tabeljudul td[id*="tengah"]{
+  width: 1em;
+  text-align: center;
+}
+
+/*------------------------------------------------ tabel judul -------------------------------------------------------*/
+
+
+
+
+#tabelsatu{
+	text-align: center;
+	border-collapse: collapse;
+	margin: auto;
+	margin-top: 2em;
+}
+
+#tabelsatu th, #tabelsatu td{
+	border: 1px solid black;
+	padding: 10px;
+}
+
+#tabelsatu .atasparaf{
+	padding-top: 4em;
+}
+
+/* ------------------------------------------ akhir tabel satu ------------------------------------------------ */
+
+#tabeldua{
+	text-align: center;
+	border-collapse: collapse;
+	margin: auto;
+	margin-top: 20px;
+}
+
+#tabeldua th, #tabeldua td{
+	border: 1px solid black;
+	padding: 0.5em;
+}
+
+
+/*=============================== footer nomor kertas =======================================================*/
+#nomorkertas{
+	font-size: 1em;
+	font-weight: bold;
+	position:absolute;
+  bottom:0;
+  left:0;
+}
+
+#kiri, #kanan{
+  width: 10.5cm;
+}
+/*=============================== footer nomor kertas =======================================================*/

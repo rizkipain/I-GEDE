@@ -1,0 +1,5 @@
+| 2020-03-05 18:06:29 | manual | 4 | 3.0 | M | 3 | 0.04 U | 121.41 E | 135 km | Minahassa Peninsula, Sulawesi
+| 2020-03-05 16:49:38 | manual | 7 | 3.6 | M | 6 | 5.68 S | 120.59 E | 10 km | Sulawesi, Indonesia
+| 2020-03-05 12:24:02 | manual | 11 | 3.6 | M | 4 | 1.67 S | 120.13 E | 10 km | Sulawesi, Indonesia
+| 2020-03-05 01:27:41 | manual | 6 | 2.8 | M | 6 | 0.23 S | 122.77 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-03-05 00:58:28 | manual | 9 | 3.0 | M | 6 | 0.99 S | 121.52 E | 10 km | Minahassa Peninsula, Sulawesi

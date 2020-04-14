@@ -1,0 +1,12 @@
+| 2019-12-02 23:11:59 | manual | 6 | 2.7 | M | 4 | 0.38 U | 122.31 E | 87 km | Minahassa Peninsula, Sulawesi
+| 2019-12-02 21:08:54 | manual | 6 | 2.5 | M | 5 | 2.72 S | 119.50 E | 15 km | Sulawesi, Indonesia
+| 2019-12-02 21:08:54 | manual | 5 | 2.4 | M | 5 | 2.73 S | 119.50 E | 15 km | Sulawesi, Indonesia
+| 2019-12-02 20:06:30 | manual | 5 | 2.9 | M | 4 | 0.18 S | 122.91 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2019-12-02 13:41:15 | manual | 7 | 3.9 | M | 7 | 0.51 U | 123.67 E | 241 km | Minahassa Peninsula, Sulawesi
+| 2019-12-02 07:21:37 | manual | 5 | 2.6 | M | 4 | 2.81 S | 119.51 E | 4 km | Sulawesi, Indonesia
+| 2019-12-02 05:06:34 | manual | 8 | 3.5 | M | 7 | 0.18 S | 122.92 E | 5 km | Minahassa Peninsula, Sulawesi
+| 2019-12-02 05:37:27 | manual | 9 | 3.4 | M | 7 | 9.76 S | 114.14 E | 10 km | South of Bali, Indonesia
+| 2019-12-02 05:01:49 | manual | 45 | 6.1 | M | 30 | 51.31 U | 177.87 W | 10 km | Andreanof Islands, Aleutian Islands
+| 2019-12-02 05:06:34 | manual | 5 | 3.4 | M | 4 | 0.18 S | 122.91 E | 5 km | Minahassa Peninsula, Sulawesi
+| 2019-12-02 03:05:22 | manual | 12 | 4.3 | M | 9 | 1.50 U | 126.27 E | 6 km | Northern Molucca Sea
+| 2019-12-02 03:05:22 | manual | 12 | 4.3 | M | 9 | 1.50 U | 126.27 E | 6 km | Northern Molucca Sea

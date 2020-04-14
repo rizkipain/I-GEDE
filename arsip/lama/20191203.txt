@@ -1,0 +1,2 @@
+| 2019-12-03 19:53:39 | manual | 14 | 3.9 | M | 12 | 1.8 S | 120.57 E | 16 km | Sulawesi, Indonesia
+| 2019-12-03 11:42:39 | manual | 5 | 2.3 | M | 3 | 3.63 S | 119.40 E | 4 km | Sulawesi, Indonesia

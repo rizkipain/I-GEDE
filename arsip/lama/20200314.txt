@@ -1,0 +1,11 @@
+| 2020-03-14 21:39:55 | manual | 8 | 3.2 | M | 4 | 2.72 S | 119.52 E | 15 km | Sulawesi, Indonesia
+| 2020-03-14 16:06:21 | manual | 11 | 3.0 | M | 7 | 1.03 S | 120.08 E | 12 km | Sulawesi, Indonesia
+| 2020-03-14 16:02:14 | manual | 7 | 1.9 | M | 4 | 3.82 S | 119.50 E | 55 km | Sulawesi, Indonesia
+| 2020-03-14 11:58:40 | manual | 8 | 3.3 | M | 4 | 2.79 S | 119.42 E | 9 km | Sulawesi, Indonesia
+| 2020-03-14 06:08:46 | manual | 10 | 3.7 | M | 7 | 1.62 U | 121.43 E | 6 km | Minahassa Peninsula, Sulawesi
+| 2020-03-14 04:27:14 | manual | 13 | 4.3 | M | 10 | 2.72 U | 119.13 E | 169 km | Celebes Sea
+| 2020-03-14 03:35:06 | manual | 7 | 2.7 | M | 6 | 4.67 S | 120.11 E | 28 km | Sulawesi, Indonesia
+| 2020-03-14 02:58:54 | manual | 10 | 4.0 | M | 8 | 2.56 S | 129.03 E | 10 km | Seram, Indonesia
+| 2020-03-14 02:48:42 | manual | 12 | 4.5 | M | 10 | 2.54 S | 128.88 E | 10 km | Ceram Sea
+| 2020-03-14 00:14:32 | manual | 6 | 3.2 | M | 6 | 3.28 S | 129.36 E | 54 km | Seram, Indonesia
+| 2020-03-14 00:14:32 | manual | 6 | 3.2 | M | 6 | 3.28 S | 129.36 E | 54 km | Seram, Indonesia

@@ -1,0 +1,8 @@
+| 2019-12-17 23:23:01 | manual | 8 | 2.6 | M | 6 | 2.88 S | 119.48 E | 4 km | Sulawesi, Indonesia
+| 2019-12-17 22:53:55 | manual | 9 | 4.4 | M | 7 | 9.27 S | 129.57 E | 66 km | Timor Sea
+| 2019-12-17 22:29:15 | manual | 6 | 3.5 | M | 5 | 0.31 S | 123.00 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2019-12-17 22:01:47 | manual | 11 | 3.9 | M | 8 | 0.19 S | 123.17 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2019-12-17 16:00:03 | manual | 6 | 2.1 | M | 5 | 2.84 S | 119.46 E | 10 km | Sulawesi, Indonesia
+| 2019-12-17 15:20:27 | manual | 7 | 3.4 | M | 5 | 1.22 S | 123.49 E | 10 km | Sulawesi, Indonesia
+| 2019-12-17 12:41:28 | manual | 8 | 3.3 | M | 7 | 4.77 S | 121.94 E | 10 km | Sulawesi, Indonesia
+| 2019-12-17 12:41:28 | manual | 8 | 3.3 | M | 7 | 4.77 S | 121.94 E | 10 km | Sulawesi, Indonesia

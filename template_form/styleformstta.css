@@ -1,0 +1,124 @@
+@page {
+    size: 21cm 29.7cm;
+	/*margin: 30mm 45mm 30mm 45mm;*/
+}
+
+*{
+  margin: 0;
+	overflow:auto;
+}
+
+/* -------------------------------------------------- header -------------------------------------------------------------*/
+#atas{
+	text-align: center;
+  margin: auto;
+	margin-top: 0.2em;
+  width: 95%;
+  border-style: double;
+    border-collapse: collapse;
+}
+
+#atas td[id="kolom_logobmkg"]{
+  border: 1px solid black;
+}
+
+.isiheader label[id="h1"]{
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+.isiheader label[id="h2"]{
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+.isiheader label[id="h3"]{
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+.isiheader label[id="h4"]{
+	font-size: 0.7em;
+	font-weight: bold;
+}
+
+.isiheader label[id="h5"]{
+	font-size: 0.7em;
+	font-weight: bold;
+}
+
+.isiheader label[id="h6"]{
+	font-size: 0.7em;
+	font-weight: bold;
+}
+
+img {
+	width: 4em;
+	height: 5em;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------*/
+
+.judulatas
+{
+	margin-top:2em;
+	text-align:center;
+}
+
+.pemisah{
+	margin-top: 2em;
+	margin-left:1em;
+	font-family:arial;
+}
+
+/*================================================ table isi STTA ==================================================*/
+#isistta{
+  margin: auto;
+  margin-top: 2em;
+  border-collapse: collapse;
+  width: 90%;
+}
+
+#isistta th, #isistta td{
+  border: 1px solid black;
+  padding: 0.6em;
+}
+
+#isistta td{
+  text-align: center;
+}
+
+#isistta td[id="kolom_jenisalat"]{
+  text-align: left;
+}
+/*==================================================================================================================*/
+
+
+#tandatangan{
+	margin:auto;
+	margin-top: 5em;
+	font-size:0.8em;
+}
+#tandatangan td{
+	padding-right: 6em;
+	padding-left: 6em;
+}
+
+#tandatangan td[id*=isi]{
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+/*=============================== footer nomor kertas =======================================================*/
+#nomorkertas{
+	font-size: 1em;
+	font-weight: bold;
+	position:absolute;
+  bottom:0;
+  left:0;
+}
+
+#kiri, #kanan{
+  width: 10.5cm;
+}
+/*=============================== footer nomor kertas =======================================================*/

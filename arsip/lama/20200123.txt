@@ -1,0 +1,10 @@
+| 2020-01-23 18:24:27 | manual | 13 | 3.2 | M | 7 | 1.07 S | 120.59 E | 10 km | Sulawesi, Indonesia
+| 2020-01-23 18:24:27 | manual | 13 | 3.2 | M | 7 | 1.07 S | 120.59 E | 10 km | Sulawesi, Indonesia
+| 2020-01-23 12:22:55 | manual | 8 | 2.6 | M | 6 | 3.98 S | 119.11 E | 4 km | Sulawesi, Indonesia
+| 2020-01-23 08:25:57 | manual | 14 | 4.6 | M | 12 | 0.06 S | 123.09 E | 111 km | Minahassa Peninsula, Sulawesi
+| 2020-01-23 07:46:15 | manual | 6 | 3.2 | M | 6 | 6.15 S | 119.63 E | 10 km | Flores Sea
+| 2020-01-23 07:46:17 | manual | 6 | 3.0 | M | 4 | 6.07 S | 119.78 E | 10 km | Flores Sea
+| 2020-01-23 07:07:34 | manual | 8 | 3.3 | M | 7 | 0.19 S | 123.14 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-01-23 05:52:59 | manual | 55 | 6.0 | M | 37 | 52.50 U | 177.19 W | 10 km | Andreanof Islands, Aleutian Islands
+| 2020-01-23 02:01:38 | manual | 10 | 3.4 | M | 5 | 1.24 S | 120.49 E | 10 km | Sulawesi, Indonesia
+| 2020-01-23 02:01:38 | manual | 10 | 3.4 | M | 5 | 1.24 S | 120.49 E | 10 km | Sulawesi, Indonesia

@@ -1,0 +1,7 @@
+| 2019-12-11 19:45:44 | manual | 7 | 2.8 | M | 4 | 2.73 S | 119.46 E | 15 km | Sulawesi, Indonesia
+| 2019-12-11 19:44:39 | manual | 7 | 2.7 | M | 4 | 2.87 S | 119.40 E | 8 km | Sulawesi, Indonesia
+| 2019-12-11 19:27:53 | manual | 15 | 3.4 | M | 6 | 2.68 S | 119.44 E | 5 km | Sulawesi, Indonesia
+| 2019-12-11 19:27:34 | manual | 10 | 4.2 | M | 7 | 1.19 S | 119.65 E | 100 km | Sulawesi, Indonesia
+| 2019-12-11 17:48:32 | manual | 31 | 4.9 | M | 17 | 0.24 S | 125.26 E | 48 km | Southern Molucca Sea
+| 2019-12-11 02:13:08 | manual | 12 | 5.0 | M | 10 | 0.26 S | 124.48 E | 10 km | Southern Molucca Sea
+| 2019-12-11 02:13:08 | manual | 12 | 5.0 | M | 10 | 0.26 S | 124.48 E | 10 km | Southern Molucca Sea

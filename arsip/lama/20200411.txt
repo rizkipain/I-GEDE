@@ -1,0 +1,20 @@
+| 2020-04-11 22:12:05 | manual | 8 | 3.3 | M | 6 | 0.6 S | 121.76 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-04-11 18:55:28 | manual | 17 | 3.8 | M | 13 | 3.83 S | 123.74 E | 20 km | Sulawesi, Indonesia
+| 2020-04-11 11:02:06 | manual | 8 | 3.7 | M | 7 | 9.45 S | 121.34 E | 106 km | Savu Sea
+| 2020-04-11 03:47:50 | manual | 8 | 2.2 | M | 5 | 4.91 S | 119.75 E | 9 km | Sulawesi, Indonesia
+| 2020-04-11 03:40:02 | manual | 12 | 2.3 | M | 6 | 3.58 S | 119.54 E | 91 km | Sulawesi, Indonesia
+| 2020-04-11 03:47:50 | manual | 8 | 2.2 | M | 5 | 4.91 S | 119.75 E | 9 km | Sulawesi, Indonesia
+| 2020-04-11 02:46:45 | manual | 7 | 2.6 | M | 6 | 2.26 S | 120.83 E | 5 km | Sulawesi, Indonesia
+| 2020-04-11 03:25:27 | manual | 13 | 3.9 | M | 11 | 0.34 S | 123.66 E | 201 km | Minahassa Peninsula, Sulawesi
+| 2020-04-11 02:53:14 | manual | 13 | 3.1 | M | 8 | 2.23 S | 120.79 E | 5 km | Sulawesi, Indonesia
+| 2020-04-11 02:46:45 | manual | 7 | 2.6 | M | 6 | 2.26 S | 120.83 E | 5 km | Sulawesi, Indonesia
+| 2020-04-11 02:43:45 | manual | 6 | 2.2 | M | 6 | 2.43 S | 120.74 E | 17 km | Sulawesi, Indonesia
+| 2020-04-11 01:30:01 | manual | 14 | 3.0 | M | 9 | 2.34 S | 120.70 E | 7 km | Sulawesi, Indonesia
+| 2020-04-11 01:27:23 | manual | 7 | 2.4 | M | 5 | 2.53 S | 120.86 E | 7 km | Sulawesi, Indonesia
+| 2020-04-11 01:18:43 | manual | 10 | 2.6 | M | 5 | 2.24 S | 120.86 E | 5 km | Sulawesi, Indonesia
+| 2020-04-11 01:30:01 | manual | 14 | 3.0 | M | 9 | 2.34 S | 120.70 E | 7 km | Sulawesi, Indonesia
+| 2020-04-11 01:05:55 | manual | 19 | 4.2 | M | 11 | 2.37 S | 120.90 E | 7 km | Sulawesi, Indonesia
+| 2020-04-11 01:05:55 | manual | 17 | 4.2 | M | 12 | 2.38 S | 120.91 E | 6 km | Sulawesi, Indonesia
+| 2020-04-11 01:05:56 | automatic | 17 | 4.2 | M | 13 | 2.34 S | 120.81 E | 10 km | Sulawesi, Indonesia
+| 2020-04-11 00:28:12 | manual | 6 | 2.8 | M | 3 | 0.16 S | 122.81 E | 55 km | Minahassa Peninsula, Sulawesi
+| 2020-04-11 00:28:12 | manual | 6 | 2.8 | M | 3 | 0.16 S | 122.81 E | 55 km | Minahassa Peninsula, Sulawesi

@@ -1,0 +1,7 @@
+| 2019-12-23 15:36:16 | manual | 12 | 4.4 | M | 7 | 0.02 S | 123.11 E | 157 km | Minahassa Peninsula, Sulawesi
+| 2019-12-23 14:48:38 | manual | 8 | 2.2 | M | 4 | 2.89 S | 119.46 E | 3 km | Sulawesi, Indonesia
+| 2019-12-23 10:30:25 | manual | 9 | 3.6 | M | 6 | 9.75 S | 123.01 E | 193 km | Timor Region
+| 2019-12-23 10:17:39 | manual | 8 | 3.2 | M | 4 | 2.45 S | 120.71 E | 5 km | Sulawesi, Indonesia
+| 2019-12-23 08:49:44 | manual | 9 | 4.4 | M | 6 | 1.46 U | 126.35 E | 7 km | Northern Molucca Sea
+| 2019-12-23 06:06:24 | manual | 11 | 3.8 | M | 9 | 7.6 S | 120.21 E | 400 km | Flores Sea
+| 2019-12-23 06:06:24 | manual | 11 | 3.8 | M | 9 | 7.6 S | 120.21 E | 400 km | Flores Sea

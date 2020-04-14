@@ -1,0 +1,7 @@
+| 2020-03-23 22:29:13 | manual | 10 | 4.4 | M | 7 | 8.25 S | 116.22 E | 12 km | Sumbawa Region, Indonesia
+| 2020-03-23 19:34:45 | manual | 7 | 3.3 | M | 5 | 0.27 U | 122.24 E | 164 km | Minahassa Peninsula, Sulawesi
+| 2020-03-23 15:05:19 | manual | 6 | 3.4 | M | 6 | 0.09 S | 119.49 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-03-23 13:19:28 | manual | 5 | 2.6 | M | 5 | 0.76 U | 122.23 E | 61 km | Minahassa Peninsula, Sulawesi
+| 2020-03-23 11:04:34 | manual | 41 | 5.0 | M | 23 | 6.19 S | 130.82 E | 112 km | Banda Sea
+| 2020-03-23 09:02:13 | manual | 14 | 3.7 | M | 10 | 1.66 S | 120.23 E | 10 km | Sulawesi, Indonesia
+| 2020-03-23 05:53:58 | manual | 7 | 3.1 | M | 3 | 0.07 S | 122.92 E | 122 km | Minahassa Peninsula, Sulawesi

@@ -1,0 +1,8 @@
+| 2020-02-25 23:18:24 | manual | 7 | 4.1 | M | 7 | 3.56 S | 127.18 E | 23 km | Seram, Indonesia
+| 2020-02-25 22:18:58 | manual | 6 | 2.5 | M | 4 | 2.92 S | 119.40 E | 3 km | Sulawesi, Indonesia
+| 2020-02-25 19:27:01 | manual | 4 | 2.6 | M | 3 | 2.81 S | 119.46 E | 6 km | Sulawesi, Indonesia
+| 2020-02-25 21:36:13 | manual | 5 | 2.6 | M | 4 | 2.64 S | 119.44 E | 10 km | Sulawesi, Indonesia
+| 2020-02-25 15:44:40 | manual | 6 | 3.9 | M | 6 | 2.26 S | 120.90 E | 0 km | Sulawesi, Indonesia
+| 2020-02-25 13:39:41 | manual | 11 | 4.0 | M | 9 | 2.41 S | 121.02 E | 10 km | Sulawesi, Indonesia
+| 2020-02-25 08:17:41 | manual | 6 | 3.7 | M | 5 | 2.47 S | 121.16 E | 10 km | Sulawesi, Indonesia
+| 2020-02-25 08:17:41 | automatic | 6 | 3.9 | M | 5 | 2.6 S | 121.20 E | 10 km | Sulawesi, Indonesia

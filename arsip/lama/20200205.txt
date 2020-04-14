@@ -1,0 +1,5 @@
+| 2020-02-05 21:54:59 | manual | 11 | 4.0 | M | 9 | 2.88 S | 123.38 E | 10 km | Sulawesi, Indonesia
+| 2020-02-05 18:12:38 | manual | 35 | 6.1 | M | 19 | 6.38 S | 113.28 E | 603 km | Java, Indonesia
+| 2020-02-05 13:35:56 | manual | 9 | 3.8 | M | 7 | 6.17 S | 119.71 E | 10 km | Flores Sea
+| 2020-02-05 12:38:23 | manual | 7 | 2.9 | M | 5 | 1.53 S | 120.09 E | 10 km | Sulawesi, Indonesia
+| 2020-02-05 12:38:23 | manual | 7 | 2.9 | M | 5 | 1.53 S | 120.09 E | 10 km | Sulawesi, Indonesia
