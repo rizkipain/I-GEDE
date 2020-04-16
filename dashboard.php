@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>E-office - Dashboard</title>
+  <title>I-GEDE - Dashboard</title>
 
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -30,10 +30,10 @@
 
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
-        <div class="sidebar-brand-icon rotate-n-15">
-          <i class="fas fa-laugh-wink"></i>
+        <div class="sidebar-brand-icon">
+          <img class="img-profile rounded-circle" src="img/tews.png" style="width:50px;height:50px;">
         </div>
-        <div class="sidebar-brand-text mx-3"> E-Office </div>
+        <div class="sidebar-brand-text mx-3"> I-GEDE </div>
       </a>
 
       <!-- Divider -->

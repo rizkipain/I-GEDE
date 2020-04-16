@@ -1,0 +1,13 @@
+| 2020-04-15 01:21:36 | manual | 8 | 2.3 | M | 6 | 2.92 S | 119.38 E | 10 km | Sulawesi, Indonesia
+| 2020-04-15 02:14:00 | manual | 12 | 3.1 | M | 10 | 4.06 S | 120.00 E | 9 km | Sulawesi, Indonesia
+| 2020-04-15 02:53:00 | manual | 8 | 2.1 | M | 6 | 4.08 S | 120.04 E | 10 km | Sulawesi, Indonesia
+| 2020-04-15 06:58:26 | manual | 11 | 3.8 | M | 8 | 0.32 S | 122.99 E | 59 km | Minahassa Peninsula, Sulawesi
+| 2020-04-15 08:15:40 | manual | 6 | 2.7 | M | 4 | 0.67 S | 123.24 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-04-15 08:36:44 | manual | 7 | 2.4 | M | 5 | 2.35 S | 120.69 E | 10 km | Sulawesi, Indonesia
+| 2020-04-15 11:54:54 | manual | 14 | 3.4 | M | 12 | 2.04 S | 122.31 E | 8 km | Sulawesi, Indonesia
+| 2020-04-15 11:58:50 | manual | 9 | 1.6 | M | 6 | 4.49 S | 119.59 E | 10 km | Sulawesi, Indonesia
+| 2020-04-15 13:44:20 | manual | 9 | 3.2 | M | 7 | 0.09 U | 123.08 E | 10 km | Minahassa Peninsula, Sulawesi
+| 2020-04-15 17:04:57 | manual | 12 | 3.0 | M | 7 | 1.7 S | 122.33 E | 155 km | Sulawesi, Indonesia
+| 2020-04-15 17:32:34 | manual | 15 | 2.4 | M | 9 | 2.3 S | 121.06 E | 3 km | Sulawesi, Indonesia
+| 2020-04-15 21:03:40 | manual | 70 | 5.6 | M | 40 | 1.07 U | 126.69 E | 53 km | Northern Molucca Sea
+| 2020-04-15 23:37:45 | manual | 55 | 4.9 | M | 29 | 8.46 S | 116.90 E | 15 km | Sumbawa Region, Indonesia

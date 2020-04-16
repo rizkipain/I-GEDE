@@ -2,3 +2,5 @@
 | 2020-04-14 04:10:56 | manual | 6 | 3.2 | M | 4 | 0.93 U | 121.82 E | 69 km | Minahassa Peninsula, Sulawesi
 | 2020-04-14 04:41:37 | manual | 9 | 4.1 | M | 5 | 0.27 S | 123.51 E | 47 km | Minahassa Peninsula, Sulawesi
 | 2020-04-14 05:01:42 | manual | 13 | 4.2 | M | 8 | 2.25 S | 127.49 E | 68 km | Ceram Sea
+| 2020-04-14 21:00:47 | manual | 11 | 2.8 | M | 6 | 2.45 S | 121.18 E | 10 km | Sulawesi, Indonesia
+| 2020-04-14 21:17:32 | manual | 6 | 2.0 | M | 4 | 2.87 S | 118.89 E | 34 km | Sulawesi, Indonesia

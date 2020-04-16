@@ -1,0 +1,3 @@
+| 2020-04-16 03:48:48 | manual | 15 | 4.4 | M | 12 | 9.46 S | 119.45 E | 29 km | Sumba Region, Indonesia
+| 2020-04-16 05:57:12 | manual | 11 | 4.0 | M | 6 | 1.74 U | 126.44 E | 16 km | Northern Molucca Sea
+| 2020-04-16 06:29:52 | manual | 10 | 4.6 | M | 8 | 9.56 S | 119.09 E | 115 km | Sumba Region, Indonesia
